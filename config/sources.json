@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "bbc-news-world",
+      "name": "BBC News",
+      "domains": ["bbc.co.uk", "bbc.com"],
+      "feedHosts": ["feeds.bbci.co.uk"],
+      "country": "GB",
+      "continent": "Europe",
+      "sourceClass": "news_publisher",
+      "trustTier": 2,
+      "enabled": false,
+      "approval": { "status": "pending" },
+      "frequencyMinutes": 15,
+      "endpoints": [
+        {
+          "id": "world",
+          "method": "rss",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "enabled": true,
+          "verified": false
+        }
+      ],
+      "permittedMetadata": {
+        "publishedAt": true,
+        "image": false,
+        "rawCategories": false
+      },
+      "mediaPermission": "none",
+      "language": "en",
+      "notes": "Seed entry. BBC lists this feed publicly. Awaiting administrator approval and licence/terms review before collection."
+    },
+    {
+      "id": "un-news",
+      "name": "UN News",
+      "domains": ["news.un.org", "un.org"],
+      "country": "GLOBAL",
+      "continent": "Global",
+      "sourceClass": "international_org",
+      "trustTier": 1,
+      "enabled": false,
+      "approval": { "status": "pending" },
+      "frequencyMinutes": 30,
+      "endpoints": [
+        {
+          "id": "all-en",
+          "method": "rss",
+          "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+          "enabled": true,
+          "verified": false
+        }
+      ],
+      "permittedMetadata": {
+        "publishedAt": true,
+        "image": false,
+        "rawCategories": false
+      },
+      "mediaPermission": "none",
+      "language": "en",
+      "notes": "Seed entry. Feed URL must be confirmed by an administrator before approval."
+    },
+    {
+      "id": "the-guardian-world",
+      "name": "The Guardian",
+      "domains": ["theguardian.com"],
+      "country": "GB",
+      "continent": "Europe",
+      "sourceClass": "news_publisher",
+      "trustTier": 2,
+      "enabled": false,
+      "approval": { "status": "pending" },
+      "frequencyMinutes": 15,
+      "endpoints": [
+        {
+          "id": "world",
+          "method": "rss",
+          "url": "https://www.theguardian.com/world/rss",
+          "enabled": true,
+          "verified": false
+        }
+      ],
+      "permittedMetadata": {
+        "publishedAt": true,
+        "image": false,
+        "rawCategories": false
+      },
+      "mediaPermission": "none",
+      "language": "en",
+      "notes": "Seed entry. Feed URL must be confirmed by an administrator before approval."
+    },
+    {
+      "id": "nasa-news",
+      "name": "NASA",
+      "domains": ["nasa.gov"],
+      "country": "US",
+      "continent": "North America",
+      "sourceClass": "government",
+      "trustTier": 1,
+      "enabled": false,
+      "approval": { "status": "pending" },
+      "frequencyMinutes": 60,
+      "endpoints": [
+        {
+          "id": "main",
+          "method": "rss",
+          "url": "https://www.nasa.gov/feed/",
+          "enabled": true,
+          "defaultCategory": "progress",
+          "verified": false
+        }
+      ],
+      "permittedMetadata": {
+        "publishedAt": true,
+        "image": false,
+        "rawCategories": false
+      },
+      "mediaPermission": "none",
+      "defaultCategory": "progress",
+      "language": "en",
+      "notes": "Seed entry. Feed URL must be confirmed by an administrator before approval."
+    },
+    {
+      "id": "nasa-earth-observatory",
+      "name": "NASA Earth Observatory",
+      "domains": ["earthobservatory.nasa.gov", "science.nasa.gov"],
+      "country": "US",
+      "continent": "North America",
+      "sourceClass": "government",
+      "trustTier": 1,
+      "enabled": false,
+      "approval": { "status": "pending" },
+      "frequencyMinutes": 120,
+      "endpoints": [
+        {
+          "id": "images",
+          "method": "rss",
+          "url": "https://earthobservatory.nasa.gov/feeds/earth-observatory.rss",
+          "enabled": true,
+          "defaultCategory": "planet-food",
+          "verified": false
+        }
+      ],
+      "permittedMetadata": {
+        "publishedAt": true,
+        "image": false,
+        "rawCategories": false
+      },
+      "mediaPermission": "none",
+      "defaultCategory": "planet-food",
+      "language": "en",
+      "notes": "Seed entry. Feed URL must be confirmed by an administrator before approval."
+    }
+  ]
+}

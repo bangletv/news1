@@ -1,0 +1,4974 @@
+{
+  "version": 1,
+  "count": 552,
+  "items": [
+    {
+      "id": "sb_0001",
+      "title": "National literacy programme reaches 200 rural schools with open source learning tablets (in Kenya)",
+      "category": "human-progress",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0002",
+      "title": "Regional electrification grid brings clean water pumping stations to remote villages (across Germany)",
+      "category": "human-progress",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0003",
+      "title": "Public broadband rollout connects 450 community libraries to digital public infrastructure (in Colombia)",
+      "category": "human-progress",
+      "continent": "south-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0004",
+      "title": "Open data portal publishes municipal budget records for citizen transparency (worldwide)",
+      "category": "human-progress",
+      "continent": "global",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0005",
+      "title": "National literacy programme reaches 200 rural schools with open source learning tablets (across India)",
+      "category": "human-progress",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0006",
+      "title": "Regional electrification grid brings clean water pumping stations to remote villages (in Toronto)",
+      "category": "human-progress",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0007",
+      "title": "Public broadband rollout connects 450 community libraries to digital public infrastructure (in Australia)",
+      "category": "human-progress",
+      "continent": "oceania",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0008",
+      "title": "Open data portal publishes municipal budget records for citizen transparency (across Ethiopia)",
+      "category": "human-progress",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0009",
+      "title": "National literacy programme reaches 200 rural schools with open source learning tablets (in France)",
+      "category": "human-progress",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0010",
+      "title": "Regional electrification grid brings clean water pumping stations to remote villages (in Chile)",
+      "category": "human-progress",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0011",
+      "title": "Public broadband rollout connects 450 community libraries to digital public infrastructure (across partner nations)",
+      "category": "human-progress",
+      "continent": "global",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0012",
+      "title": "Open data portal publishes municipal budget records for citizen transparency (in Japan)",
+      "category": "human-progress",
+      "continent": "asia",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0013",
+      "title": "National literacy programme reaches 200 rural schools with open source learning tablets (in the United States)",
+      "category": "human-progress",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0014",
+      "title": "Regional electrification grid brings clean water pumping stations to remote villages (across New Zealand)",
+      "category": "human-progress",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0015",
+      "title": "Public broadband rollout connects 450 community libraries to digital public infrastructure (in Nigeria)",
+      "category": "human-progress",
+      "continent": "africa",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0016",
+      "title": "Open data portal publishes municipal budget records for citizen transparency (in the United Kingdom)",
+      "category": "human-progress",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0017",
+      "title": "National literacy programme reaches 200 rural schools with open source learning tablets (across Brazil)",
+      "category": "human-progress",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0018",
+      "title": "Regional electrification grid brings clean water pumping stations to remote villages (globally)",
+      "category": "human-progress",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0019",
+      "title": "Public broadband rollout connects 450 community libraries to digital public infrastructure (in Bangladesh)",
+      "category": "human-progress",
+      "continent": "asia",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0020",
+      "title": "Open data portal publishes municipal budget records for citizen transparency (across Canada)",
+      "category": "human-progress",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0021",
+      "title": "National literacy programme reaches 200 rural schools with open source learning tablets (in the Pacific)",
+      "category": "human-progress",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0022",
+      "title": "Regional electrification grid brings clean water pumping stations to remote villages (in Kenya)",
+      "category": "human-progress",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0023",
+      "title": "Public broadband rollout connects 450 community libraries to digital public infrastructure (across Germany)",
+      "category": "human-progress",
+      "continent": "europe",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0024",
+      "title": "Open data portal publishes municipal budget records for citizen transparency (in Colombia)",
+      "category": "human-progress",
+      "continent": "south-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0025",
+      "title": "Regional mediation talks produce signed peace agreement and cross-border humanitarian corridor (in the United States)",
+      "category": "peace-diplomacy",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0026",
+      "title": "UN agencies coordinate ceasefire monitoring and food assistance for displaced families (across New Zealand)",
+      "category": "peace-diplomacy",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0027",
+      "title": "Diplomatic dialogue establishes joint water-sharing treaty and reconstruction fund (in Nigeria)",
+      "category": "peace-diplomacy",
+      "continent": "africa",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0028",
+      "title": "Humanitarian relief convoy delivers medical aid and winter shelter supplies safely (in the United Kingdom)",
+      "category": "peace-diplomacy",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0029",
+      "title": "Regional mediation talks produce signed peace agreement and cross-border humanitarian corridor (across Brazil)",
+      "category": "peace-diplomacy",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0030",
+      "title": "UN agencies coordinate ceasefire monitoring and food assistance for displaced families (globally)",
+      "category": "peace-diplomacy",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0031",
+      "title": "Diplomatic dialogue establishes joint water-sharing treaty and reconstruction fund (in Bangladesh)",
+      "category": "peace-diplomacy",
+      "continent": "asia",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0032",
+      "title": "Humanitarian relief convoy delivers medical aid and winter shelter supplies safely (across Canada)",
+      "category": "peace-diplomacy",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0033",
+      "title": "Regional mediation talks produce signed peace agreement and cross-border humanitarian corridor (in the Pacific)",
+      "category": "peace-diplomacy",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0034",
+      "title": "UN agencies coordinate ceasefire monitoring and food assistance for displaced families (in Kenya)",
+      "category": "peace-diplomacy",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0035",
+      "title": "Diplomatic dialogue establishes joint water-sharing treaty and reconstruction fund (across Germany)",
+      "category": "peace-diplomacy",
+      "continent": "europe",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0036",
+      "title": "Humanitarian relief convoy delivers medical aid and winter shelter supplies safely (in Colombia)",
+      "category": "peace-diplomacy",
+      "continent": "south-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0037",
+      "title": "Regional mediation talks produce signed peace agreement and cross-border humanitarian corridor (worldwide)",
+      "category": "peace-diplomacy",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0038",
+      "title": "UN agencies coordinate ceasefire monitoring and food assistance for displaced families (across India)",
+      "category": "peace-diplomacy",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0039",
+      "title": "Diplomatic dialogue establishes joint water-sharing treaty and reconstruction fund (in Toronto)",
+      "category": "peace-diplomacy",
+      "continent": "north-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0040",
+      "title": "Humanitarian relief convoy delivers medical aid and winter shelter supplies safely (in Australia)",
+      "category": "peace-diplomacy",
+      "continent": "oceania",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0041",
+      "title": "Regional mediation talks produce signed peace agreement and cross-border humanitarian corridor (across Ethiopia)",
+      "category": "peace-diplomacy",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0042",
+      "title": "UN agencies coordinate ceasefire monitoring and food assistance for displaced families (in France)",
+      "category": "peace-diplomacy",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0043",
+      "title": "Diplomatic dialogue establishes joint water-sharing treaty and reconstruction fund (in Chile)",
+      "category": "peace-diplomacy",
+      "continent": "south-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0044",
+      "title": "Humanitarian relief convoy delivers medical aid and winter shelter supplies safely (across partner nations)",
+      "category": "peace-diplomacy",
+      "continent": "global",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0045",
+      "title": "Regional mediation talks produce signed peace agreement and cross-border humanitarian corridor (in Japan)",
+      "category": "peace-diplomacy",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0046",
+      "title": "UN agencies coordinate ceasefire monitoring and food assistance for displaced families (in the United States)",
+      "category": "peace-diplomacy",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0047",
+      "title": "Diplomatic dialogue establishes joint water-sharing treaty and reconstruction fund (across New Zealand)",
+      "category": "peace-diplomacy",
+      "continent": "oceania",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0048",
+      "title": "Humanitarian relief convoy delivers medical aid and winter shelter supplies safely (in Nigeria)",
+      "category": "peace-diplomacy",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0049",
+      "title": "NASA space mission observatory maps atmospheric water vapour on distant exoplanet (worldwide)",
+      "category": "science-space",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0050",
+      "title": "European physics laboratory confirms milestone in clean fusion plasma containment (across India)",
+      "category": "science-space",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0051",
+      "title": "Joint satellite mission tracks polar glacier thickness with high-resolution radar (in Toronto)",
+      "category": "science-space",
+      "continent": "north-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0052",
+      "title": "Quantum computing research team demonstrates fault-tolerant logical qubit stability (in Australia)",
+      "category": "science-space",
+      "continent": "oceania",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0053",
+      "title": "NASA space mission observatory maps atmospheric water vapour on distant exoplanet (across Ethiopia)",
+      "category": "science-space",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0054",
+      "title": "European physics laboratory confirms milestone in clean fusion plasma containment (in France)",
+      "category": "science-space",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0055",
+      "title": "Joint satellite mission tracks polar glacier thickness with high-resolution radar (in Chile)",
+      "category": "science-space",
+      "continent": "south-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0056",
+      "title": "Quantum computing research team demonstrates fault-tolerant logical qubit stability (across partner nations)",
+      "category": "science-space",
+      "continent": "global",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0057",
+      "title": "NASA space mission observatory maps atmospheric water vapour on distant exoplanet (in Japan)",
+      "category": "science-space",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0058",
+      "title": "European physics laboratory confirms milestone in clean fusion plasma containment (in the United States)",
+      "category": "science-space",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0059",
+      "title": "Joint satellite mission tracks polar glacier thickness with high-resolution radar (across New Zealand)",
+      "category": "science-space",
+      "continent": "oceania",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0060",
+      "title": "Quantum computing research team demonstrates fault-tolerant logical qubit stability (in Nigeria)",
+      "category": "science-space",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0061",
+      "title": "NASA space mission observatory maps atmospheric water vapour on distant exoplanet (in the United Kingdom)",
+      "category": "science-space",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0062",
+      "title": "European physics laboratory confirms milestone in clean fusion plasma containment (across Brazil)",
+      "category": "science-space",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0063",
+      "title": "Joint satellite mission tracks polar glacier thickness with high-resolution radar (globally)",
+      "category": "science-space",
+      "continent": "global",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0064",
+      "title": "Quantum computing research team demonstrates fault-tolerant logical qubit stability (in Bangladesh)",
+      "category": "science-space",
+      "continent": "asia",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0065",
+      "title": "NASA space mission observatory maps atmospheric water vapour on distant exoplanet (across Canada)",
+      "category": "science-space",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0066",
+      "title": "European physics laboratory confirms milestone in clean fusion plasma containment (in the Pacific)",
+      "category": "science-space",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0067",
+      "title": "Joint satellite mission tracks polar glacier thickness with high-resolution radar (in Kenya)",
+      "category": "science-space",
+      "continent": "africa",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0068",
+      "title": "Quantum computing research team demonstrates fault-tolerant logical qubit stability (across Germany)",
+      "category": "science-space",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0069",
+      "title": "NASA space mission observatory maps atmospheric water vapour on distant exoplanet (in Colombia)",
+      "category": "science-space",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0070",
+      "title": "European physics laboratory confirms milestone in clean fusion plasma containment (worldwide)",
+      "category": "science-space",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0071",
+      "title": "Joint satellite mission tracks polar glacier thickness with high-resolution radar (across India)",
+      "category": "science-space",
+      "continent": "asia",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0072",
+      "title": "Quantum computing research team demonstrates fault-tolerant logical qubit stability (in Toronto)",
+      "category": "science-space",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0073",
+      "title": "Chevening and Commonwealth postgraduate scholarship programme opens applications for 2026 (in the United Kingdom)",
+      "category": "scholarships",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0074",
+      "title": "National science council announces 300 doctoral studentship awards with full tuition grant (across Brazil)",
+      "category": "scholarships",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0075",
+      "title": "University fellowship scheme funds visiting researchers in renewable engineering (globally)",
+      "category": "scholarships",
+      "continent": "global",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0076",
+      "title": "Erasmus mobility bursary expands undergraduate exchange scholarships across Europe (in Bangladesh)",
+      "category": "scholarships",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0077",
+      "title": "Chevening and Commonwealth postgraduate scholarship programme opens applications for 2026 (across Canada)",
+      "category": "scholarships",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0078",
+      "title": "National science council announces 300 doctoral studentship awards with full tuition grant (in the Pacific)",
+      "category": "scholarships",
+      "continent": "oceania",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0079",
+      "title": "University fellowship scheme funds visiting researchers in renewable engineering (in Kenya)",
+      "category": "scholarships",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0080",
+      "title": "Erasmus mobility bursary expands undergraduate exchange scholarships across Europe (across Germany)",
+      "category": "scholarships",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0081",
+      "title": "Chevening and Commonwealth postgraduate scholarship programme opens applications for 2026 (in Colombia)",
+      "category": "scholarships",
+      "continent": "south-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0082",
+      "title": "National science council announces 300 doctoral studentship awards with full tuition grant (worldwide)",
+      "category": "scholarships",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0083",
+      "title": "University fellowship scheme funds visiting researchers in renewable engineering (across India)",
+      "category": "scholarships",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0084",
+      "title": "Erasmus mobility bursary expands undergraduate exchange scholarships across Europe (in Toronto)",
+      "category": "scholarships",
+      "continent": "north-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0085",
+      "title": "Chevening and Commonwealth postgraduate scholarship programme opens applications for 2026 (in Australia)",
+      "category": "scholarships",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0086",
+      "title": "National science council announces 300 doctoral studentship awards with full tuition grant (across Ethiopia)",
+      "category": "scholarships",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0087",
+      "title": "University fellowship scheme funds visiting researchers in renewable engineering (in France)",
+      "category": "scholarships",
+      "continent": "europe",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0088",
+      "title": "Erasmus mobility bursary expands undergraduate exchange scholarships across Europe (in Chile)",
+      "category": "scholarships",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0089",
+      "title": "Chevening and Commonwealth postgraduate scholarship programme opens applications for 2026 (across partner nations)",
+      "category": "scholarships",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0090",
+      "title": "National science council announces 300 doctoral studentship awards with full tuition grant (in Japan)",
+      "category": "scholarships",
+      "continent": "asia",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0091",
+      "title": "University fellowship scheme funds visiting researchers in renewable engineering (in the United States)",
+      "category": "scholarships",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0092",
+      "title": "Erasmus mobility bursary expands undergraduate exchange scholarships across Europe (across New Zealand)",
+      "category": "scholarships",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0093",
+      "title": "Chevening and Commonwealth postgraduate scholarship programme opens applications for 2026 (in Nigeria)",
+      "category": "scholarships",
+      "continent": "africa",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0094",
+      "title": "National science council announces 300 doctoral studentship awards with full tuition grant (in the United Kingdom)",
+      "category": "scholarships",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0095",
+      "title": "University fellowship scheme funds visiting researchers in renewable engineering (across Brazil)",
+      "category": "scholarships",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0096",
+      "title": "Erasmus mobility bursary expands undergraduate exchange scholarships across Europe (globally)",
+      "category": "scholarships",
+      "continent": "global",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0097",
+      "title": "Public health institute opens graduate programme and staff engineer vacancies for 2026 (in Australia)",
+      "category": "jobs-careers",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0098",
+      "title": "National meteorological office announces summer internship and research fellow hiring (across Ethiopia)",
+      "category": "jobs-careers",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0099",
+      "title": "Municipal transport authority launches paid civil engineering apprenticeship cohort (in France)",
+      "category": "jobs-careers",
+      "continent": "europe",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0100",
+      "title": "International research centre recruits data stewardship specialists on open contracts (in Chile)",
+      "category": "jobs-careers",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0101",
+      "title": "Public health institute opens graduate programme and staff engineer vacancies for 2026 (across partner nations)",
+      "category": "jobs-careers",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0102",
+      "title": "National meteorological office announces summer internship and research fellow hiring (in Japan)",
+      "category": "jobs-careers",
+      "continent": "asia",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0103",
+      "title": "Municipal transport authority launches paid civil engineering apprenticeship cohort (in the United States)",
+      "category": "jobs-careers",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0104",
+      "title": "International research centre recruits data stewardship specialists on open contracts (across New Zealand)",
+      "category": "jobs-careers",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0105",
+      "title": "Public health institute opens graduate programme and staff engineer vacancies for 2026 (in Nigeria)",
+      "category": "jobs-careers",
+      "continent": "africa",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0106",
+      "title": "National meteorological office announces summer internship and research fellow hiring (in the United Kingdom)",
+      "category": "jobs-careers",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0107",
+      "title": "Municipal transport authority launches paid civil engineering apprenticeship cohort (across Brazil)",
+      "category": "jobs-careers",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0108",
+      "title": "International research centre recruits data stewardship specialists on open contracts (globally)",
+      "category": "jobs-careers",
+      "continent": "global",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0109",
+      "title": "Public health institute opens graduate programme and staff engineer vacancies for 2026 (in Bangladesh)",
+      "category": "jobs-careers",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0110",
+      "title": "National meteorological office announces summer internship and research fellow hiring (across Canada)",
+      "category": "jobs-careers",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0111",
+      "title": "Municipal transport authority launches paid civil engineering apprenticeship cohort (in the Pacific)",
+      "category": "jobs-careers",
+      "continent": "oceania",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0112",
+      "title": "International research centre recruits data stewardship specialists on open contracts (in Kenya)",
+      "category": "jobs-careers",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0113",
+      "title": "Public health institute opens graduate programme and staff engineer vacancies for 2026 (across Germany)",
+      "category": "jobs-careers",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0114",
+      "title": "National meteorological office announces summer internship and research fellow hiring (in Colombia)",
+      "category": "jobs-careers",
+      "continent": "south-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0115",
+      "title": "Municipal transport authority launches paid civil engineering apprenticeship cohort (worldwide)",
+      "category": "jobs-careers",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0116",
+      "title": "International research centre recruits data stewardship specialists on open contracts (across India)",
+      "category": "jobs-careers",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0117",
+      "title": "Public health institute opens graduate programme and staff engineer vacancies for 2026 (in Toronto)",
+      "category": "jobs-careers",
+      "continent": "north-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0118",
+      "title": "National meteorological office announces summer internship and research fellow hiring (in Australia)",
+      "category": "jobs-careers",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0119",
+      "title": "Municipal transport authority launches paid civil engineering apprenticeship cohort (across Ethiopia)",
+      "category": "jobs-careers",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0120",
+      "title": "International research centre recruits data stewardship specialists on open contracts (in France)",
+      "category": "jobs-careers",
+      "continent": "europe",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0121",
+      "title": "Innovation fund opens seed funding call for proposals in clean water startups (in Bangladesh)",
+      "category": "grants-startups",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0122",
+      "title": "Research grant programme awards SME funding for agricultural robotics prototypes (across Canada)",
+      "category": "grants-startups",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0123",
+      "title": "Microfinance facility launches low-interest R&D funding for rural cooperatives (in the Pacific)",
+      "category": "grants-startups",
+      "continent": "oceania",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0124",
+      "title": "National science foundation announces startup grant awards for climate diagnostics (in Kenya)",
+      "category": "grants-startups",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0125",
+      "title": "Innovation fund opens seed funding call for proposals in clean water startups (across Germany)",
+      "category": "grants-startups",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0126",
+      "title": "Research grant programme awards SME funding for agricultural robotics prototypes (in Colombia)",
+      "category": "grants-startups",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0127",
+      "title": "Microfinance facility launches low-interest R&D funding for rural cooperatives (worldwide)",
+      "category": "grants-startups",
+      "continent": "global",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0128",
+      "title": "National science foundation announces startup grant awards for climate diagnostics (across India)",
+      "category": "grants-startups",
+      "continent": "asia",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0129",
+      "title": "Innovation fund opens seed funding call for proposals in clean water startups (in Toronto)",
+      "category": "grants-startups",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0130",
+      "title": "Research grant programme awards SME funding for agricultural robotics prototypes (in Australia)",
+      "category": "grants-startups",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0131",
+      "title": "Microfinance facility launches low-interest R&D funding for rural cooperatives (across Ethiopia)",
+      "category": "grants-startups",
+      "continent": "africa",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0132",
+      "title": "National science foundation announces startup grant awards for climate diagnostics (in France)",
+      "category": "grants-startups",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0133",
+      "title": "Innovation fund opens seed funding call for proposals in clean water startups (in Chile)",
+      "category": "grants-startups",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0134",
+      "title": "Research grant programme awards SME funding for agricultural robotics prototypes (across partner nations)",
+      "category": "grants-startups",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0135",
+      "title": "Microfinance facility launches low-interest R&D funding for rural cooperatives (in Japan)",
+      "category": "grants-startups",
+      "continent": "asia",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0136",
+      "title": "National science foundation announces startup grant awards for climate diagnostics (in the United States)",
+      "category": "grants-startups",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0137",
+      "title": "Innovation fund opens seed funding call for proposals in clean water startups (across New Zealand)",
+      "category": "grants-startups",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0138",
+      "title": "Research grant programme awards SME funding for agricultural robotics prototypes (in Nigeria)",
+      "category": "grants-startups",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0139",
+      "title": "Microfinance facility launches low-interest R&D funding for rural cooperatives (in the United Kingdom)",
+      "category": "grants-startups",
+      "continent": "europe",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0140",
+      "title": "National science foundation announces startup grant awards for climate diagnostics (across Brazil)",
+      "category": "grants-startups",
+      "continent": "south-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0141",
+      "title": "Innovation fund opens seed funding call for proposals in clean water startups (globally)",
+      "category": "grants-startups",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0142",
+      "title": "Research grant programme awards SME funding for agricultural robotics prototypes (in Bangladesh)",
+      "category": "grants-startups",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0143",
+      "title": "Microfinance facility launches low-interest R&D funding for rural cooperatives (across Canada)",
+      "category": "grants-startups",
+      "continent": "north-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0144",
+      "title": "National science foundation announces startup grant awards for climate diagnostics (in the Pacific)",
+      "category": "grants-startups",
+      "continent": "oceania",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0145",
+      "title": "UNESCO literacy prize announces global nominations for community reading centres (in Chile)",
+      "category": "awards-competitions",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0146",
+      "title": "Young engineers innovation challenge opens national design competition entries (across partner nations)",
+      "category": "awards-competitions",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0147",
+      "title": "Public library association unveils shortlist for translated literature literary award (in Japan)",
+      "category": "awards-competitions",
+      "continent": "asia",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0148",
+      "title": "Annual civic data hackathon invites university teams to build accessibility tools (in the United States)",
+      "category": "awards-competitions",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0149",
+      "title": "UNESCO literacy prize announces global nominations for community reading centres (across New Zealand)",
+      "category": "awards-competitions",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0150",
+      "title": "Young engineers innovation challenge opens national design competition entries (in Nigeria)",
+      "category": "awards-competitions",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0151",
+      "title": "Public library association unveils shortlist for translated literature literary award (in the United Kingdom)",
+      "category": "awards-competitions",
+      "continent": "europe",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0152",
+      "title": "Annual civic data hackathon invites university teams to build accessibility tools (across Brazil)",
+      "category": "awards-competitions",
+      "continent": "south-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0153",
+      "title": "UNESCO literacy prize announces global nominations for community reading centres (globally)",
+      "category": "awards-competitions",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0154",
+      "title": "Young engineers innovation challenge opens national design competition entries (in Bangladesh)",
+      "category": "awards-competitions",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0155",
+      "title": "Public library association unveils shortlist for translated literature literary award (across Canada)",
+      "category": "awards-competitions",
+      "continent": "north-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0156",
+      "title": "Annual civic data hackathon invites university teams to build accessibility tools (in the Pacific)",
+      "category": "awards-competitions",
+      "continent": "oceania",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0157",
+      "title": "UNESCO literacy prize announces global nominations for community reading centres (in Kenya)",
+      "category": "awards-competitions",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0158",
+      "title": "Young engineers innovation challenge opens national design competition entries (across Germany)",
+      "category": "awards-competitions",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0159",
+      "title": "Public library association unveils shortlist for translated literature literary award (in Colombia)",
+      "category": "awards-competitions",
+      "continent": "south-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0160",
+      "title": "Annual civic data hackathon invites university teams to build accessibility tools (worldwide)",
+      "category": "awards-competitions",
+      "continent": "global",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0161",
+      "title": "UNESCO literacy prize announces global nominations for community reading centres (across India)",
+      "category": "awards-competitions",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0162",
+      "title": "Young engineers innovation challenge opens national design competition entries (in Toronto)",
+      "category": "awards-competitions",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0163",
+      "title": "Public library association unveils shortlist for translated literature literary award (in Australia)",
+      "category": "awards-competitions",
+      "continent": "oceania",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0164",
+      "title": "Annual civic data hackathon invites university teams to build accessibility tools (across Ethiopia)",
+      "category": "awards-competitions",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0165",
+      "title": "UNESCO literacy prize announces global nominations for community reading centres (in France)",
+      "category": "awards-competitions",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0166",
+      "title": "Young engineers innovation challenge opens national design competition entries (in Chile)",
+      "category": "awards-competitions",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0167",
+      "title": "Public library association unveils shortlist for translated literature literary award (across partner nations)",
+      "category": "awards-competitions",
+      "continent": "global",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0168",
+      "title": "Annual civic data hackathon invites university teams to build accessibility tools (in Japan)",
+      "category": "awards-competitions",
+      "continent": "asia",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0169",
+      "title": "WHO approves new thermostable malaria vaccine following multi-country clinical trial (in Kenya)",
+      "category": "healthcare-breakthroughs",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0170",
+      "title": "University hospital reports rapid tuberculosis diagnostics breakthrough for rural clinics (across Germany)",
+      "category": "healthcare-breakthroughs",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0171",
+      "title": "Genome sequencing consortium releases open cancer therapy biomarker atlas (in Colombia)",
+      "category": "healthcare-breakthroughs",
+      "continent": "south-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0172",
+      "title": "Public health centre completes phase three antibiotic trial for resistant infections (worldwide)",
+      "category": "healthcare-breakthroughs",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0173",
+      "title": "WHO approves new thermostable malaria vaccine following multi-country clinical trial (across India)",
+      "category": "healthcare-breakthroughs",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0174",
+      "title": "University hospital reports rapid tuberculosis diagnostics breakthrough for rural clinics (in Toronto)",
+      "category": "healthcare-breakthroughs",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0175",
+      "title": "Genome sequencing consortium releases open cancer therapy biomarker atlas (in Australia)",
+      "category": "healthcare-breakthroughs",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0176",
+      "title": "Public health centre completes phase three antibiotic trial for resistant infections (across Ethiopia)",
+      "category": "healthcare-breakthroughs",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0177",
+      "title": "WHO approves new thermostable malaria vaccine following multi-country clinical trial (in France)",
+      "category": "healthcare-breakthroughs",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0178",
+      "title": "University hospital reports rapid tuberculosis diagnostics breakthrough for rural clinics (in Chile)",
+      "category": "healthcare-breakthroughs",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0179",
+      "title": "Genome sequencing consortium releases open cancer therapy biomarker atlas (across partner nations)",
+      "category": "healthcare-breakthroughs",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0180",
+      "title": "Public health centre completes phase three antibiotic trial for resistant infections (in Japan)",
+      "category": "healthcare-breakthroughs",
+      "continent": "asia",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0181",
+      "title": "WHO approves new thermostable malaria vaccine following multi-country clinical trial (in the United States)",
+      "category": "healthcare-breakthroughs",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0182",
+      "title": "University hospital reports rapid tuberculosis diagnostics breakthrough for rural clinics (across New Zealand)",
+      "category": "healthcare-breakthroughs",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0183",
+      "title": "Genome sequencing consortium releases open cancer therapy biomarker atlas (in Nigeria)",
+      "category": "healthcare-breakthroughs",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0184",
+      "title": "Public health centre completes phase three antibiotic trial for resistant infections (in the United Kingdom)",
+      "category": "healthcare-breakthroughs",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0185",
+      "title": "WHO approves new thermostable malaria vaccine following multi-country clinical trial (across Brazil)",
+      "category": "healthcare-breakthroughs",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0186",
+      "title": "University hospital reports rapid tuberculosis diagnostics breakthrough for rural clinics (globally)",
+      "category": "healthcare-breakthroughs",
+      "continent": "global",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0187",
+      "title": "Genome sequencing consortium releases open cancer therapy biomarker atlas (in Bangladesh)",
+      "category": "healthcare-breakthroughs",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0188",
+      "title": "Public health centre completes phase three antibiotic trial for resistant infections (across Canada)",
+      "category": "healthcare-breakthroughs",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0189",
+      "title": "WHO approves new thermostable malaria vaccine following multi-country clinical trial (in the Pacific)",
+      "category": "healthcare-breakthroughs",
+      "continent": "oceania",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0190",
+      "title": "University hospital reports rapid tuberculosis diagnostics breakthrough for rural clinics (in Kenya)",
+      "category": "healthcare-breakthroughs",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0191",
+      "title": "Genome sequencing consortium releases open cancer therapy biomarker atlas (across Germany)",
+      "category": "healthcare-breakthroughs",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0192",
+      "title": "Public health centre completes phase three antibiotic trial for resistant infections (in Colombia)",
+      "category": "healthcare-breakthroughs",
+      "continent": "south-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0193",
+      "title": "National health service expands free youth helpline and community mental health clinics (in the United States)",
+      "category": "mental-wellbeing",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0194",
+      "title": "University wellbeing study validates peer counselling support for first-year students (across New Zealand)",
+      "category": "mental-wellbeing",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0195",
+      "title": "Regional hospital trust launches workplace psychological support and mindfulness programme (in Nigeria)",
+      "category": "mental-wellbeing",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0196",
+      "title": "Public health ministry funds rural depression care training for primary nurses (in the United Kingdom)",
+      "category": "mental-wellbeing",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0197",
+      "title": "National health service expands free youth helpline and community mental health clinics (across Brazil)",
+      "category": "mental-wellbeing",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0198",
+      "title": "University wellbeing study validates peer counselling support for first-year students (globally)",
+      "category": "mental-wellbeing",
+      "continent": "global",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0199",
+      "title": "Regional hospital trust launches workplace psychological support and mindfulness programme (in Bangladesh)",
+      "category": "mental-wellbeing",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0200",
+      "title": "Public health ministry funds rural depression care training for primary nurses (across Canada)",
+      "category": "mental-wellbeing",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0201",
+      "title": "National health service expands free youth helpline and community mental health clinics (in the Pacific)",
+      "category": "mental-wellbeing",
+      "continent": "oceania",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0202",
+      "title": "University wellbeing study validates peer counselling support for first-year students (in Kenya)",
+      "category": "mental-wellbeing",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0203",
+      "title": "Regional hospital trust launches workplace psychological support and mindfulness programme (across Germany)",
+      "category": "mental-wellbeing",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0204",
+      "title": "Public health ministry funds rural depression care training for primary nurses (in Colombia)",
+      "category": "mental-wellbeing",
+      "continent": "south-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0205",
+      "title": "National health service expands free youth helpline and community mental health clinics (worldwide)",
+      "category": "mental-wellbeing",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0206",
+      "title": "University wellbeing study validates peer counselling support for first-year students (across India)",
+      "category": "mental-wellbeing",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0207",
+      "title": "Regional hospital trust launches workplace psychological support and mindfulness programme (in Toronto)",
+      "category": "mental-wellbeing",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0208",
+      "title": "Public health ministry funds rural depression care training for primary nurses (in Australia)",
+      "category": "mental-wellbeing",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0209",
+      "title": "National health service expands free youth helpline and community mental health clinics (across Ethiopia)",
+      "category": "mental-wellbeing",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0210",
+      "title": "University wellbeing study validates peer counselling support for first-year students (in France)",
+      "category": "mental-wellbeing",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0211",
+      "title": "Regional hospital trust launches workplace psychological support and mindfulness programme (in Chile)",
+      "category": "mental-wellbeing",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0212",
+      "title": "Public health ministry funds rural depression care training for primary nurses (across partner nations)",
+      "category": "mental-wellbeing",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0213",
+      "title": "National health service expands free youth helpline and community mental health clinics (in Japan)",
+      "category": "mental-wellbeing",
+      "continent": "asia",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0214",
+      "title": "University wellbeing study validates peer counselling support for first-year students (in the United States)",
+      "category": "mental-wellbeing",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0215",
+      "title": "Regional hospital trust launches workplace psychological support and mindfulness programme (across New Zealand)",
+      "category": "mental-wellbeing",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0216",
+      "title": "Public health ministry funds rural depression care training for primary nurses (in Nigeria)",
+      "category": "mental-wellbeing",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0217",
+      "title": "Municipal council introduces integrated dementia support hubs for older adults (worldwide)",
+      "category": "elderly-care",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0218",
+      "title": "National health institute publishes geriatric nutrition standards for senior living homes (across India)",
+      "category": "elderly-care",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0219",
+      "title": "Community elderly care programme expands home physiotherapy visits for pensioners (in Toronto)",
+      "category": "elderly-care",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0220",
+      "title": "Public research centre trials assistive mobility sensors for ageing population independence (in Australia)",
+      "category": "elderly-care",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0221",
+      "title": "Municipal council introduces integrated dementia support hubs for older adults (across Ethiopia)",
+      "category": "elderly-care",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0222",
+      "title": "National health institute publishes geriatric nutrition standards for senior living homes (in France)",
+      "category": "elderly-care",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0223",
+      "title": "Community elderly care programme expands home physiotherapy visits for pensioners (in Chile)",
+      "category": "elderly-care",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0224",
+      "title": "Public research centre trials assistive mobility sensors for ageing population independence (across partner nations)",
+      "category": "elderly-care",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0225",
+      "title": "Municipal council introduces integrated dementia support hubs for older adults (in Japan)",
+      "category": "elderly-care",
+      "continent": "asia",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0226",
+      "title": "National health institute publishes geriatric nutrition standards for senior living homes (in the United States)",
+      "category": "elderly-care",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0227",
+      "title": "Community elderly care programme expands home physiotherapy visits for pensioners (across New Zealand)",
+      "category": "elderly-care",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0228",
+      "title": "Public research centre trials assistive mobility sensors for ageing population independence (in Nigeria)",
+      "category": "elderly-care",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0229",
+      "title": "Municipal council introduces integrated dementia support hubs for older adults (in the United Kingdom)",
+      "category": "elderly-care",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0230",
+      "title": "National health institute publishes geriatric nutrition standards for senior living homes (across Brazil)",
+      "category": "elderly-care",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0231",
+      "title": "Community elderly care programme expands home physiotherapy visits for pensioners (globally)",
+      "category": "elderly-care",
+      "continent": "global",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0232",
+      "title": "Public research centre trials assistive mobility sensors for ageing population independence (in Bangladesh)",
+      "category": "elderly-care",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0233",
+      "title": "Municipal council introduces integrated dementia support hubs for older adults (across Canada)",
+      "category": "elderly-care",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0234",
+      "title": "National health institute publishes geriatric nutrition standards for senior living homes (in the Pacific)",
+      "category": "elderly-care",
+      "continent": "oceania",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0235",
+      "title": "Community elderly care programme expands home physiotherapy visits for pensioners (in Kenya)",
+      "category": "elderly-care",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0236",
+      "title": "Public research centre trials assistive mobility sensors for ageing population independence (across Germany)",
+      "category": "elderly-care",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0237",
+      "title": "Municipal council introduces integrated dementia support hubs for older adults (in Colombia)",
+      "category": "elderly-care",
+      "continent": "south-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0238",
+      "title": "National health institute publishes geriatric nutrition standards for senior living homes (worldwide)",
+      "category": "elderly-care",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0239",
+      "title": "Community elderly care programme expands home physiotherapy visits for pensioners (across India)",
+      "category": "elderly-care",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0240",
+      "title": "Public research centre trials assistive mobility sensors for ageing population independence (in Toronto)",
+      "category": "elderly-care",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0241",
+      "title": "University lab releases open-source refreshable Braille display for inclusive education (in the United Kingdom)",
+      "category": "disability-inclusion",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0242",
+      "title": "National broadcaster expands real-time sign language interpretation across civic briefings (across Brazil)",
+      "category": "disability-inclusion",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0243",
+      "title": "Transport ministry funds step-free wheelchair access upgrades at 35 regional stations (globally)",
+      "category": "disability-inclusion",
+      "continent": "global",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0244",
+      "title": "School board adopts assistive technology standards for neurodiversity classroom support (in Bangladesh)",
+      "category": "disability-inclusion",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0245",
+      "title": "University lab releases open-source refreshable Braille display for inclusive education (across Canada)",
+      "category": "disability-inclusion",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0246",
+      "title": "National broadcaster expands real-time sign language interpretation across civic briefings (in the Pacific)",
+      "category": "disability-inclusion",
+      "continent": "oceania",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0247",
+      "title": "Transport ministry funds step-free wheelchair access upgrades at 35 regional stations (in Kenya)",
+      "category": "disability-inclusion",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0248",
+      "title": "School board adopts assistive technology standards for neurodiversity classroom support (across Germany)",
+      "category": "disability-inclusion",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0249",
+      "title": "University lab releases open-source refreshable Braille display for inclusive education (in Colombia)",
+      "category": "disability-inclusion",
+      "continent": "south-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0250",
+      "title": "National broadcaster expands real-time sign language interpretation across civic briefings (worldwide)",
+      "category": "disability-inclusion",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0251",
+      "title": "Transport ministry funds step-free wheelchair access upgrades at 35 regional stations (across India)",
+      "category": "disability-inclusion",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0252",
+      "title": "School board adopts assistive technology standards for neurodiversity classroom support (in Toronto)",
+      "category": "disability-inclusion",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0253",
+      "title": "University lab releases open-source refreshable Braille display for inclusive education (in Australia)",
+      "category": "disability-inclusion",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0254",
+      "title": "National broadcaster expands real-time sign language interpretation across civic briefings (across Ethiopia)",
+      "category": "disability-inclusion",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0255",
+      "title": "Transport ministry funds step-free wheelchair access upgrades at 35 regional stations (in France)",
+      "category": "disability-inclusion",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0256",
+      "title": "School board adopts assistive technology standards for neurodiversity classroom support (in Chile)",
+      "category": "disability-inclusion",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0257",
+      "title": "University lab releases open-source refreshable Braille display for inclusive education (across partner nations)",
+      "category": "disability-inclusion",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0258",
+      "title": "National broadcaster expands real-time sign language interpretation across civic briefings (in Japan)",
+      "category": "disability-inclusion",
+      "continent": "asia",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0259",
+      "title": "Transport ministry funds step-free wheelchair access upgrades at 35 regional stations (in the United States)",
+      "category": "disability-inclusion",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0260",
+      "title": "School board adopts assistive technology standards for neurodiversity classroom support (across New Zealand)",
+      "category": "disability-inclusion",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0261",
+      "title": "University lab releases open-source refreshable Braille display for inclusive education (in Nigeria)",
+      "category": "disability-inclusion",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0262",
+      "title": "National broadcaster expands real-time sign language interpretation across civic briefings (in the United Kingdom)",
+      "category": "disability-inclusion",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0263",
+      "title": "Transport ministry funds step-free wheelchair access upgrades at 35 regional stations (across Brazil)",
+      "category": "disability-inclusion",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0264",
+      "title": "School board adopts assistive technology standards for neurodiversity classroom support (globally)",
+      "category": "disability-inclusion",
+      "continent": "global",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0265",
+      "title": "Social protection ministry automates child benefit enrolment through public service portal (in Australia)",
+      "category": "civic-benefits",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0266",
+      "title": "National legal aid centre expands free tenant advice and citizen entitlement clinics (across Ethiopia)",
+      "category": "civic-benefits",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0267",
+      "title": "Digital ID registry introduces offline verification for rural pension reform payments (in France)",
+      "category": "civic-benefits",
+      "continent": "europe",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0268",
+      "title": "Municipal government launches transparent civic grant portal for neighbourhood associations (in Chile)",
+      "category": "civic-benefits",
+      "continent": "south-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0269",
+      "title": "Social protection ministry automates child benefit enrolment through public service portal (across partner nations)",
+      "category": "civic-benefits",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0270",
+      "title": "National legal aid centre expands free tenant advice and citizen entitlement clinics (in Japan)",
+      "category": "civic-benefits",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0271",
+      "title": "Digital ID registry introduces offline verification for rural pension reform payments (in the United States)",
+      "category": "civic-benefits",
+      "continent": "north-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0272",
+      "title": "Municipal government launches transparent civic grant portal for neighbourhood associations (across New Zealand)",
+      "category": "civic-benefits",
+      "continent": "oceania",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0273",
+      "title": "Social protection ministry automates child benefit enrolment through public service portal (in Nigeria)",
+      "category": "civic-benefits",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0274",
+      "title": "National legal aid centre expands free tenant advice and citizen entitlement clinics (in the United Kingdom)",
+      "category": "civic-benefits",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0275",
+      "title": "Digital ID registry introduces offline verification for rural pension reform payments (across Brazil)",
+      "category": "civic-benefits",
+      "continent": "south-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0276",
+      "title": "Municipal government launches transparent civic grant portal for neighbourhood associations (globally)",
+      "category": "civic-benefits",
+      "continent": "global",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0277",
+      "title": "Social protection ministry automates child benefit enrolment through public service portal (in Bangladesh)",
+      "category": "civic-benefits",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0278",
+      "title": "National legal aid centre expands free tenant advice and citizen entitlement clinics (across Canada)",
+      "category": "civic-benefits",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0279",
+      "title": "Digital ID registry introduces offline verification for rural pension reform payments (in the Pacific)",
+      "category": "civic-benefits",
+      "continent": "oceania",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0280",
+      "title": "Municipal government launches transparent civic grant portal for neighbourhood associations (in Kenya)",
+      "category": "civic-benefits",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0281",
+      "title": "Social protection ministry automates child benefit enrolment through public service portal (across Germany)",
+      "category": "civic-benefits",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0282",
+      "title": "National legal aid centre expands free tenant advice and citizen entitlement clinics (in Colombia)",
+      "category": "civic-benefits",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0283",
+      "title": "Digital ID registry introduces offline verification for rural pension reform payments (worldwide)",
+      "category": "civic-benefits",
+      "continent": "global",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0284",
+      "title": "Municipal government launches transparent civic grant portal for neighbourhood associations (across India)",
+      "category": "civic-benefits",
+      "continent": "asia",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0285",
+      "title": "Social protection ministry automates child benefit enrolment through public service portal (in Toronto)",
+      "category": "civic-benefits",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0286",
+      "title": "National legal aid centre expands free tenant advice and citizen entitlement clinics (in Australia)",
+      "category": "civic-benefits",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0287",
+      "title": "Digital ID registry introduces offline verification for rural pension reform payments (across Ethiopia)",
+      "category": "civic-benefits",
+      "continent": "africa",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0288",
+      "title": "Municipal government launches transparent civic grant portal for neighbourhood associations (in France)",
+      "category": "civic-benefits",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0289",
+      "title": "City council approves 1,200 net-zero social housing units under community land trust (in Bangladesh)",
+      "category": "housing-cost-of-living",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0290",
+      "title": "Energy regulator introduces winter heating subsidy and targeted bill support for low-income households (across Canada)",
+      "category": "housing-cost-of-living",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0291",
+      "title": "Parliament enacts stronger tenant protection and affordable housing rent cap framework (in the Pacific)",
+      "category": "housing-cost-of-living",
+      "continent": "oceania",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0292",
+      "title": "Regional development bank finances energy-efficient insulation retrofits for public housing (in Kenya)",
+      "category": "housing-cost-of-living",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0293",
+      "title": "City council approves 1,200 net-zero social housing units under community land trust (across Germany)",
+      "category": "housing-cost-of-living",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0294",
+      "title": "Energy regulator introduces winter heating subsidy and targeted bill support for low-income households (in Colombia)",
+      "category": "housing-cost-of-living",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0295",
+      "title": "Parliament enacts stronger tenant protection and affordable housing rent cap framework (worldwide)",
+      "category": "housing-cost-of-living",
+      "continent": "global",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0296",
+      "title": "Regional development bank finances energy-efficient insulation retrofits for public housing (across India)",
+      "category": "housing-cost-of-living",
+      "continent": "asia",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0297",
+      "title": "City council approves 1,200 net-zero social housing units under community land trust (in Toronto)",
+      "category": "housing-cost-of-living",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0298",
+      "title": "Energy regulator introduces winter heating subsidy and targeted bill support for low-income households (in Australia)",
+      "category": "housing-cost-of-living",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0299",
+      "title": "Parliament enacts stronger tenant protection and affordable housing rent cap framework (across Ethiopia)",
+      "category": "housing-cost-of-living",
+      "continent": "africa",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0300",
+      "title": "Regional development bank finances energy-efficient insulation retrofits for public housing (in France)",
+      "category": "housing-cost-of-living",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0301",
+      "title": "City council approves 1,200 net-zero social housing units under community land trust (in Chile)",
+      "category": "housing-cost-of-living",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0302",
+      "title": "Energy regulator introduces winter heating subsidy and targeted bill support for low-income households (across partner nations)",
+      "category": "housing-cost-of-living",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0303",
+      "title": "Parliament enacts stronger tenant protection and affordable housing rent cap framework (in Japan)",
+      "category": "housing-cost-of-living",
+      "continent": "asia",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0304",
+      "title": "Regional development bank finances energy-efficient insulation retrofits for public housing (in the United States)",
+      "category": "housing-cost-of-living",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0305",
+      "title": "City council approves 1,200 net-zero social housing units under community land trust (across New Zealand)",
+      "category": "housing-cost-of-living",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0306",
+      "title": "Energy regulator introduces winter heating subsidy and targeted bill support for low-income households (in Nigeria)",
+      "category": "housing-cost-of-living",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0307",
+      "title": "Parliament enacts stronger tenant protection and affordable housing rent cap framework (in the United Kingdom)",
+      "category": "housing-cost-of-living",
+      "continent": "europe",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0308",
+      "title": "Regional development bank finances energy-efficient insulation retrofits for public housing (across Brazil)",
+      "category": "housing-cost-of-living",
+      "continent": "south-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0309",
+      "title": "City council approves 1,200 net-zero social housing units under community land trust (globally)",
+      "category": "housing-cost-of-living",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0310",
+      "title": "Energy regulator introduces winter heating subsidy and targeted bill support for low-income households (in Bangladesh)",
+      "category": "housing-cost-of-living",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0311",
+      "title": "Parliament enacts stronger tenant protection and affordable housing rent cap framework (across Canada)",
+      "category": "housing-cost-of-living",
+      "continent": "north-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0312",
+      "title": "Regional development bank finances energy-efficient insulation retrofits for public housing (in the Pacific)",
+      "category": "housing-cost-of-living",
+      "continent": "oceania",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0313",
+      "title": "Government publishes updated skilled worker visa and global talent visa eligibility criteria (in Chile)",
+      "category": "visas-global-mobility",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0314",
+      "title": "Higher education authority extends post-study work permit window for STEM graduates (across partner nations)",
+      "category": "visas-global-mobility",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0315",
+      "title": "Bilateral mobility scheme opens youth exchange visa route between partner countries (in Japan)",
+      "category": "visas-global-mobility",
+      "continent": "asia",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0316",
+      "title": "Interior ministry digitises passport renewal and asylum integration documentation (in the United States)",
+      "category": "visas-global-mobility",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0317",
+      "title": "Government publishes updated skilled worker visa and global talent visa eligibility criteria (across New Zealand)",
+      "category": "visas-global-mobility",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0318",
+      "title": "Higher education authority extends post-study work permit window for STEM graduates (in Nigeria)",
+      "category": "visas-global-mobility",
+      "continent": "africa",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0319",
+      "title": "Bilateral mobility scheme opens youth exchange visa route between partner countries (in the United Kingdom)",
+      "category": "visas-global-mobility",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0320",
+      "title": "Interior ministry digitises passport renewal and asylum integration documentation (across Brazil)",
+      "category": "visas-global-mobility",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0321",
+      "title": "Government publishes updated skilled worker visa and global talent visa eligibility criteria (globally)",
+      "category": "visas-global-mobility",
+      "continent": "global",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0322",
+      "title": "Higher education authority extends post-study work permit window for STEM graduates (in Bangladesh)",
+      "category": "visas-global-mobility",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0323",
+      "title": "Bilateral mobility scheme opens youth exchange visa route between partner countries (across Canada)",
+      "category": "visas-global-mobility",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0324",
+      "title": "Interior ministry digitises passport renewal and asylum integration documentation (in the Pacific)",
+      "category": "visas-global-mobility",
+      "continent": "oceania",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0325",
+      "title": "Government publishes updated skilled worker visa and global talent visa eligibility criteria (in Kenya)",
+      "category": "visas-global-mobility",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0326",
+      "title": "Higher education authority extends post-study work permit window for STEM graduates (across Germany)",
+      "category": "visas-global-mobility",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0327",
+      "title": "Bilateral mobility scheme opens youth exchange visa route between partner countries (in Colombia)",
+      "category": "visas-global-mobility",
+      "continent": "south-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0328",
+      "title": "Interior ministry digitises passport renewal and asylum integration documentation (worldwide)",
+      "category": "visas-global-mobility",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0329",
+      "title": "Government publishes updated skilled worker visa and global talent visa eligibility criteria (across India)",
+      "category": "visas-global-mobility",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0330",
+      "title": "Higher education authority extends post-study work permit window for STEM graduates (in Toronto)",
+      "category": "visas-global-mobility",
+      "continent": "north-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0331",
+      "title": "Bilateral mobility scheme opens youth exchange visa route between partner countries (in Australia)",
+      "category": "visas-global-mobility",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0332",
+      "title": "Interior ministry digitises passport renewal and asylum integration documentation (across Ethiopia)",
+      "category": "visas-global-mobility",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0333",
+      "title": "Government publishes updated skilled worker visa and global talent visa eligibility criteria (in France)",
+      "category": "visas-global-mobility",
+      "continent": "europe",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0334",
+      "title": "Higher education authority extends post-study work permit window for STEM graduates (in Chile)",
+      "category": "visas-global-mobility",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0335",
+      "title": "Bilateral mobility scheme opens youth exchange visa route between partner countries (across partner nations)",
+      "category": "visas-global-mobility",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0336",
+      "title": "Interior ministry digitises passport renewal and asylum integration documentation (in Japan)",
+      "category": "visas-global-mobility",
+      "continent": "asia",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0337",
+      "title": "Ministry of education expands universal free school meals to 800 primary schools (in Kenya)",
+      "category": "family-children",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0338",
+      "title": "Public health agency strengthens maternal health clinics and early childhood nutrition visits (across Germany)",
+      "category": "family-children",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0339",
+      "title": "National employment act extends paid parental leave and affordable childcare subsidies (in Colombia)",
+      "category": "family-children",
+      "continent": "south-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0340",
+      "title": "Municipal libraries launch bilingual early childhood literacy and family support sessions (worldwide)",
+      "category": "family-children",
+      "continent": "global",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0341",
+      "title": "Ministry of education expands universal free school meals to 800 primary schools (across India)",
+      "category": "family-children",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0342",
+      "title": "Public health agency strengthens maternal health clinics and early childhood nutrition visits (in Toronto)",
+      "category": "family-children",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0343",
+      "title": "National employment act extends paid parental leave and affordable childcare subsidies (in Australia)",
+      "category": "family-children",
+      "continent": "oceania",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0344",
+      "title": "Municipal libraries launch bilingual early childhood literacy and family support sessions (across Ethiopia)",
+      "category": "family-children",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0345",
+      "title": "Ministry of education expands universal free school meals to 800 primary schools (in France)",
+      "category": "family-children",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0346",
+      "title": "Public health agency strengthens maternal health clinics and early childhood nutrition visits (in Chile)",
+      "category": "family-children",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0347",
+      "title": "National employment act extends paid parental leave and affordable childcare subsidies (across partner nations)",
+      "category": "family-children",
+      "continent": "global",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0348",
+      "title": "Municipal libraries launch bilingual early childhood literacy and family support sessions (in Japan)",
+      "category": "family-children",
+      "continent": "asia",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0349",
+      "title": "Ministry of education expands universal free school meals to 800 primary schools (in the United States)",
+      "category": "family-children",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0350",
+      "title": "Public health agency strengthens maternal health clinics and early childhood nutrition visits (across New Zealand)",
+      "category": "family-children",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0351",
+      "title": "National employment act extends paid parental leave and affordable childcare subsidies (in Nigeria)",
+      "category": "family-children",
+      "continent": "africa",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0352",
+      "title": "Municipal libraries launch bilingual early childhood literacy and family support sessions (in the United Kingdom)",
+      "category": "family-children",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0353",
+      "title": "Ministry of education expands universal free school meals to 800 primary schools (across Brazil)",
+      "category": "family-children",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0354",
+      "title": "Public health agency strengthens maternal health clinics and early childhood nutrition visits (globally)",
+      "category": "family-children",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0355",
+      "title": "National employment act extends paid parental leave and affordable childcare subsidies (in Bangladesh)",
+      "category": "family-children",
+      "continent": "asia",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0356",
+      "title": "Municipal libraries launch bilingual early childhood literacy and family support sessions (across Canada)",
+      "category": "family-children",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0357",
+      "title": "Ministry of education expands universal free school meals to 800 primary schools (in the Pacific)",
+      "category": "family-children",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0358",
+      "title": "Public health agency strengthens maternal health clinics and early childhood nutrition visits (in Kenya)",
+      "category": "family-children",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0359",
+      "title": "National employment act extends paid parental leave and affordable childcare subsidies (across Germany)",
+      "category": "family-children",
+      "continent": "europe",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0360",
+      "title": "Municipal libraries launch bilingual early childhood literacy and family support sessions (in Colombia)",
+      "category": "family-children",
+      "continent": "south-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0361",
+      "title": "Coastal conservation authority restores 12,000 hectares of mangrove wetland habitat (in the United States)",
+      "category": "climate-nature",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0362",
+      "title": "National grid operator hits record renewable solar and wind power generation share (across New Zealand)",
+      "category": "climate-nature",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0363",
+      "title": "Marine science agency documents coral reef recovery inside protected ocean sanctuary (in Nigeria)",
+      "category": "climate-nature",
+      "continent": "africa",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0364",
+      "title": "Forestry commission partners with municipalities on urban reforestation and emissions reduction (in the United Kingdom)",
+      "category": "climate-nature",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0365",
+      "title": "Coastal conservation authority restores 12,000 hectares of mangrove wetland habitat (across Brazil)",
+      "category": "climate-nature",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0366",
+      "title": "National grid operator hits record renewable solar and wind power generation share (globally)",
+      "category": "climate-nature",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0367",
+      "title": "Marine science agency documents coral reef recovery inside protected ocean sanctuary (in Bangladesh)",
+      "category": "climate-nature",
+      "continent": "asia",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0368",
+      "title": "Forestry commission partners with municipalities on urban reforestation and emissions reduction (across Canada)",
+      "category": "climate-nature",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0369",
+      "title": "Coastal conservation authority restores 12,000 hectares of mangrove wetland habitat (in the Pacific)",
+      "category": "climate-nature",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0370",
+      "title": "National grid operator hits record renewable solar and wind power generation share (in Kenya)",
+      "category": "climate-nature",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0371",
+      "title": "Marine science agency documents coral reef recovery inside protected ocean sanctuary (across Germany)",
+      "category": "climate-nature",
+      "continent": "europe",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0372",
+      "title": "Forestry commission partners with municipalities on urban reforestation and emissions reduction (in Colombia)",
+      "category": "climate-nature",
+      "continent": "south-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0373",
+      "title": "Coastal conservation authority restores 12,000 hectares of mangrove wetland habitat (worldwide)",
+      "category": "climate-nature",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0374",
+      "title": "National grid operator hits record renewable solar and wind power generation share (across India)",
+      "category": "climate-nature",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0375",
+      "title": "Marine science agency documents coral reef recovery inside protected ocean sanctuary (in Toronto)",
+      "category": "climate-nature",
+      "continent": "north-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0376",
+      "title": "Forestry commission partners with municipalities on urban reforestation and emissions reduction (in Australia)",
+      "category": "climate-nature",
+      "continent": "oceania",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0377",
+      "title": "Coastal conservation authority restores 12,000 hectares of mangrove wetland habitat (across Ethiopia)",
+      "category": "climate-nature",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0378",
+      "title": "National grid operator hits record renewable solar and wind power generation share (in France)",
+      "category": "climate-nature",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0379",
+      "title": "Marine science agency documents coral reef recovery inside protected ocean sanctuary (in Chile)",
+      "category": "climate-nature",
+      "continent": "south-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0380",
+      "title": "Forestry commission partners with municipalities on urban reforestation and emissions reduction (across partner nations)",
+      "category": "climate-nature",
+      "continent": "global",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0381",
+      "title": "Coastal conservation authority restores 12,000 hectares of mangrove wetland habitat (in Japan)",
+      "category": "climate-nature",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0382",
+      "title": "National grid operator hits record renewable solar and wind power generation share (in the United States)",
+      "category": "climate-nature",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0383",
+      "title": "Marine science agency documents coral reef recovery inside protected ocean sanctuary (across New Zealand)",
+      "category": "climate-nature",
+      "continent": "oceania",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0384",
+      "title": "Forestry commission partners with municipalities on urban reforestation and emissions reduction (in Nigeria)",
+      "category": "climate-nature",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0385",
+      "title": "Agricultural research institute releases drought-resistant millet varieties to boost food security (worldwide)",
+      "category": "food-agriculture",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0386",
+      "title": "Rural irrigation cooperative doubles smallholder crop yield using solar drip systems (across India)",
+      "category": "food-agriculture",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0387",
+      "title": "Seed bank coalition archives 4,000 heirloom grain accessions for climate resilience (in Toronto)",
+      "category": "food-agriculture",
+      "continent": "north-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0388",
+      "title": "Sustainable farming board certifies community fisheries for long-term coastal stewardship (in Australia)",
+      "category": "food-agriculture",
+      "continent": "oceania",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0389",
+      "title": "Agricultural research institute releases drought-resistant millet varieties to boost food security (across Ethiopia)",
+      "category": "food-agriculture",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0390",
+      "title": "Rural irrigation cooperative doubles smallholder crop yield using solar drip systems (in France)",
+      "category": "food-agriculture",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0391",
+      "title": "Seed bank coalition archives 4,000 heirloom grain accessions for climate resilience (in Chile)",
+      "category": "food-agriculture",
+      "continent": "south-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0392",
+      "title": "Sustainable farming board certifies community fisheries for long-term coastal stewardship (across partner nations)",
+      "category": "food-agriculture",
+      "continent": "global",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0393",
+      "title": "Agricultural research institute releases drought-resistant millet varieties to boost food security (in Japan)",
+      "category": "food-agriculture",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0394",
+      "title": "Rural irrigation cooperative doubles smallholder crop yield using solar drip systems (in the United States)",
+      "category": "food-agriculture",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0395",
+      "title": "Seed bank coalition archives 4,000 heirloom grain accessions for climate resilience (across New Zealand)",
+      "category": "food-agriculture",
+      "continent": "oceania",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0396",
+      "title": "Sustainable farming board certifies community fisheries for long-term coastal stewardship (in Nigeria)",
+      "category": "food-agriculture",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0397",
+      "title": "Agricultural research institute releases drought-resistant millet varieties to boost food security (in the United Kingdom)",
+      "category": "food-agriculture",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0398",
+      "title": "Rural irrigation cooperative doubles smallholder crop yield using solar drip systems (across Brazil)",
+      "category": "food-agriculture",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0399",
+      "title": "Seed bank coalition archives 4,000 heirloom grain accessions for climate resilience (globally)",
+      "category": "food-agriculture",
+      "continent": "global",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0400",
+      "title": "Sustainable farming board certifies community fisheries for long-term coastal stewardship (in Bangladesh)",
+      "category": "food-agriculture",
+      "continent": "asia",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0401",
+      "title": "Agricultural research institute releases drought-resistant millet varieties to boost food security (across Canada)",
+      "category": "food-agriculture",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0402",
+      "title": "Rural irrigation cooperative doubles smallholder crop yield using solar drip systems (in the Pacific)",
+      "category": "food-agriculture",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0403",
+      "title": "Seed bank coalition archives 4,000 heirloom grain accessions for climate resilience (in Kenya)",
+      "category": "food-agriculture",
+      "continent": "africa",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0404",
+      "title": "Sustainable farming board certifies community fisheries for long-term coastal stewardship (across Germany)",
+      "category": "food-agriculture",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0405",
+      "title": "Agricultural research institute releases drought-resistant millet varieties to boost food security (in Colombia)",
+      "category": "food-agriculture",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0406",
+      "title": "Rural irrigation cooperative doubles smallholder crop yield using solar drip systems (worldwide)",
+      "category": "food-agriculture",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0407",
+      "title": "Seed bank coalition archives 4,000 heirloom grain accessions for climate resilience (across India)",
+      "category": "food-agriculture",
+      "continent": "asia",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0408",
+      "title": "Sustainable farming board certifies community fisheries for long-term coastal stewardship (in Toronto)",
+      "category": "food-agriculture",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0409",
+      "title": "National museum opens free digitised archive of regional manuscript heritage and folk music (in the United Kingdom)",
+      "category": "arts-sports-culture",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0410",
+      "title": "UNESCO inscribes traditional boatbuilding craft on intangible cultural heritage list (across Brazil)",
+      "category": "arts-sports-culture",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0411",
+      "title": "Community sport foundation builds inclusive Paralympic athletics centre in northern district (globally)",
+      "category": "arts-sports-culture",
+      "continent": "global",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0412",
+      "title": "Public arts council funds touring regional orchestra and free summer cultural festival (in Bangladesh)",
+      "category": "arts-sports-culture",
+      "continent": "asia",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0413",
+      "title": "National museum opens free digitised archive of regional manuscript heritage and folk music (across Canada)",
+      "category": "arts-sports-culture",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0414",
+      "title": "UNESCO inscribes traditional boatbuilding craft on intangible cultural heritage list (in the Pacific)",
+      "category": "arts-sports-culture",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0415",
+      "title": "Community sport foundation builds inclusive Paralympic athletics centre in northern district (in Kenya)",
+      "category": "arts-sports-culture",
+      "continent": "africa",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0416",
+      "title": "Public arts council funds touring regional orchestra and free summer cultural festival (across Germany)",
+      "category": "arts-sports-culture",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0417",
+      "title": "National museum opens free digitised archive of regional manuscript heritage and folk music (in Colombia)",
+      "category": "arts-sports-culture",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0418",
+      "title": "UNESCO inscribes traditional boatbuilding craft on intangible cultural heritage list (worldwide)",
+      "category": "arts-sports-culture",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0419",
+      "title": "Community sport foundation builds inclusive Paralympic athletics centre in northern district (across India)",
+      "category": "arts-sports-culture",
+      "continent": "asia",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0420",
+      "title": "Public arts council funds touring regional orchestra and free summer cultural festival (in Toronto)",
+      "category": "arts-sports-culture",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0421",
+      "title": "National museum opens free digitised archive of regional manuscript heritage and folk music (in Australia)",
+      "category": "arts-sports-culture",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0422",
+      "title": "UNESCO inscribes traditional boatbuilding craft on intangible cultural heritage list (across Ethiopia)",
+      "category": "arts-sports-culture",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0423",
+      "title": "Community sport foundation builds inclusive Paralympic athletics centre in northern district (in France)",
+      "category": "arts-sports-culture",
+      "continent": "europe",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0424",
+      "title": "Public arts council funds touring regional orchestra and free summer cultural festival (in Chile)",
+      "category": "arts-sports-culture",
+      "continent": "south-america",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0425",
+      "title": "National museum opens free digitised archive of regional manuscript heritage and folk music (across partner nations)",
+      "category": "arts-sports-culture",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0426",
+      "title": "UNESCO inscribes traditional boatbuilding craft on intangible cultural heritage list (in Japan)",
+      "category": "arts-sports-culture",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0427",
+      "title": "Community sport foundation builds inclusive Paralympic athletics centre in northern district (in the United States)",
+      "category": "arts-sports-culture",
+      "continent": "north-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0428",
+      "title": "Public arts council funds touring regional orchestra and free summer cultural festival (across New Zealand)",
+      "category": "arts-sports-culture",
+      "continent": "oceania",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0429",
+      "title": "National museum opens free digitised archive of regional manuscript heritage and folk music (in Nigeria)",
+      "category": "arts-sports-culture",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0430",
+      "title": "UNESCO inscribes traditional boatbuilding craft on intangible cultural heritage list (in the United Kingdom)",
+      "category": "arts-sports-culture",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0431",
+      "title": "Community sport foundation builds inclusive Paralympic athletics centre in northern district (across Brazil)",
+      "category": "arts-sports-culture",
+      "continent": "south-america",
+      "source_priority": 3,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0432",
+      "title": "Public arts council funds touring regional orchestra and free summer cultural festival (globally)",
+      "category": "arts-sports-culture",
+      "continent": "global",
+      "source_priority": 4,
+      "expected_verdict": "allow",
+      "case_type": "constructive_positive"
+    },
+    {
+      "id": "sb_0433",
+      "title": "Airstrike and shelling leave dozens of casualties near border town worldwide",
+      "category": "peace-diplomacy",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "conflict_casualties"
+    },
+    {
+      "id": "sb_0434",
+      "title": "Fatal crash and multi-vehicle pile-up kills four commuters on motorway across Ethiopia",
+      "category": "human-progress",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "accident_fatal"
+    },
+    {
+      "id": "sb_0435",
+      "title": "Armed robbery suspect arrested after dramatic police manhunt and shooting in Japan",
+      "category": "civic-benefits",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "crime_report"
+    },
+    {
+      "id": "sb_0436",
+      "title": "Analysts warn of World War 3 and nuclear apocalypse brinkmanship in the United Kingdom",
+      "category": "peace-diplomacy",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "war_fear"
+    },
+    {
+      "id": "sb_0437",
+      "title": "Opposition leader slams rival as corrupt in heated partisan showdown across Canada",
+      "category": "civic-benefits",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "partisan_attack"
+    },
+    {
+      "id": "sb_0438",
+      "title": "Unconfirmed report and insiders claim celebrity dating rumour after leaked photos in Colombia",
+      "category": "arts-sports-culture",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "rumour_gossip"
+    },
+    {
+      "id": "sb_0439",
+      "title": "Adult film studio faces inquiry over explicit NSFW subscription content in Australia",
+      "category": "arts-sports-culture",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "adult_content"
+    },
+    {
+      "id": "sb_0440",
+      "title": "Horror stabbing and bloodshed reported outside downtown nightclub across partner nations",
+      "category": "housing-cost-of-living",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "violence_bloodshed"
+    },
+    {
+      "id": "sb_0441",
+      "title": "Drug cartel shootout leaves three dead in coastal province in Nigeria",
+      "category": "human-progress",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "crime_violence"
+    },
+    {
+      "id": "sb_0442",
+      "title": "Election smear campaign escalates with political attack ad accusations in Bangladesh",
+      "category": "civic-benefits",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "partisan_politics"
+    },
+    {
+      "id": "sb_0443",
+      "title": "Airstrike and shelling leave dozens of casualties near border town across Germany",
+      "category": "peace-diplomacy",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "conflict_casualties"
+    },
+    {
+      "id": "sb_0444",
+      "title": "Fatal crash and multi-vehicle pile-up kills four commuters on motorway in Toronto",
+      "category": "human-progress",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "accident_fatal"
+    },
+    {
+      "id": "sb_0445",
+      "title": "Armed robbery suspect arrested after dramatic police manhunt and shooting in Chile",
+      "category": "civic-benefits",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "crime_report"
+    },
+    {
+      "id": "sb_0446",
+      "title": "Analysts warn of World War 3 and nuclear apocalypse brinkmanship across New Zealand",
+      "category": "peace-diplomacy",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "war_fear"
+    },
+    {
+      "id": "sb_0447",
+      "title": "Opposition leader slams rival as corrupt in heated partisan showdown globally",
+      "category": "civic-benefits",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "partisan_attack"
+    },
+    {
+      "id": "sb_0448",
+      "title": "Unconfirmed report and insiders claim celebrity dating rumour after leaked photos in Kenya",
+      "category": "arts-sports-culture",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "rumour_gossip"
+    },
+    {
+      "id": "sb_0449",
+      "title": "Adult film studio faces inquiry over explicit NSFW subscription content across India",
+      "category": "arts-sports-culture",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "adult_content"
+    },
+    {
+      "id": "sb_0450",
+      "title": "Horror stabbing and bloodshed reported outside downtown nightclub in France",
+      "category": "housing-cost-of-living",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "violence_bloodshed"
+    },
+    {
+      "id": "sb_0451",
+      "title": "Drug cartel shootout leaves three dead in coastal province in the United States",
+      "category": "human-progress",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "crime_violence"
+    },
+    {
+      "id": "sb_0452",
+      "title": "Election smear campaign escalates with political attack ad accusations across Brazil",
+      "category": "civic-benefits",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "partisan_politics"
+    },
+    {
+      "id": "sb_0453",
+      "title": "Airstrike and shelling leave dozens of casualties near border town in the Pacific",
+      "category": "peace-diplomacy",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "conflict_casualties"
+    },
+    {
+      "id": "sb_0454",
+      "title": "Fatal crash and multi-vehicle pile-up kills four commuters on motorway worldwide",
+      "category": "human-progress",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "accident_fatal"
+    },
+    {
+      "id": "sb_0455",
+      "title": "Armed robbery suspect arrested after dramatic police manhunt and shooting across Ethiopia",
+      "category": "civic-benefits",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "crime_report"
+    },
+    {
+      "id": "sb_0456",
+      "title": "Analysts warn of World War 3 and nuclear apocalypse brinkmanship in Japan",
+      "category": "peace-diplomacy",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "war_fear"
+    },
+    {
+      "id": "sb_0457",
+      "title": "Opposition leader slams rival as corrupt in heated partisan showdown in the United Kingdom",
+      "category": "civic-benefits",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "partisan_attack"
+    },
+    {
+      "id": "sb_0458",
+      "title": "Unconfirmed report and insiders claim celebrity dating rumour after leaked photos across Canada",
+      "category": "arts-sports-culture",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "rumour_gossip"
+    },
+    {
+      "id": "sb_0459",
+      "title": "Adult film studio faces inquiry over explicit NSFW subscription content in Colombia",
+      "category": "arts-sports-culture",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "adult_content"
+    },
+    {
+      "id": "sb_0460",
+      "title": "Horror stabbing and bloodshed reported outside downtown nightclub in Australia",
+      "category": "housing-cost-of-living",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "violence_bloodshed"
+    },
+    {
+      "id": "sb_0461",
+      "title": "Drug cartel shootout leaves three dead in coastal province across partner nations",
+      "category": "human-progress",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "crime_violence"
+    },
+    {
+      "id": "sb_0462",
+      "title": "Election smear campaign escalates with political attack ad accusations in Nigeria",
+      "category": "civic-benefits",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "partisan_politics"
+    },
+    {
+      "id": "sb_0463",
+      "title": "Airstrike and shelling leave dozens of casualties near border town in Bangladesh",
+      "category": "peace-diplomacy",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "conflict_casualties"
+    },
+    {
+      "id": "sb_0464",
+      "title": "Fatal crash and multi-vehicle pile-up kills four commuters on motorway across Germany",
+      "category": "human-progress",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "accident_fatal"
+    },
+    {
+      "id": "sb_0465",
+      "title": "Armed robbery suspect arrested after dramatic police manhunt and shooting in Toronto",
+      "category": "civic-benefits",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "crime_report"
+    },
+    {
+      "id": "sb_0466",
+      "title": "Analysts warn of World War 3 and nuclear apocalypse brinkmanship in Chile",
+      "category": "peace-diplomacy",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "war_fear"
+    },
+    {
+      "id": "sb_0467",
+      "title": "Opposition leader slams rival as corrupt in heated partisan showdown across New Zealand",
+      "category": "civic-benefits",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "partisan_attack"
+    },
+    {
+      "id": "sb_0468",
+      "title": "Unconfirmed report and insiders claim celebrity dating rumour after leaked photos globally",
+      "category": "arts-sports-culture",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "rumour_gossip"
+    },
+    {
+      "id": "sb_0469",
+      "title": "Adult film studio faces inquiry over explicit NSFW subscription content in Kenya",
+      "category": "arts-sports-culture",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "adult_content"
+    },
+    {
+      "id": "sb_0470",
+      "title": "Horror stabbing and bloodshed reported outside downtown nightclub across India",
+      "category": "housing-cost-of-living",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "violence_bloodshed"
+    },
+    {
+      "id": "sb_0471",
+      "title": "Drug cartel shootout leaves three dead in coastal province in France",
+      "category": "human-progress",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "crime_violence"
+    },
+    {
+      "id": "sb_0472",
+      "title": "Election smear campaign escalates with political attack ad accusations in the United States",
+      "category": "civic-benefits",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "partisan_politics"
+    },
+    {
+      "id": "sb_0473",
+      "title": "Airstrike and shelling leave dozens of casualties near border town across Brazil",
+      "category": "peace-diplomacy",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "conflict_casualties"
+    },
+    {
+      "id": "sb_0474",
+      "title": "Fatal crash and multi-vehicle pile-up kills four commuters on motorway in the Pacific",
+      "category": "human-progress",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "accident_fatal"
+    },
+    {
+      "id": "sb_0475",
+      "title": "Armed robbery suspect arrested after dramatic police manhunt and shooting worldwide",
+      "category": "civic-benefits",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "crime_report"
+    },
+    {
+      "id": "sb_0476",
+      "title": "Analysts warn of World War 3 and nuclear apocalypse brinkmanship across Ethiopia",
+      "category": "peace-diplomacy",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "war_fear"
+    },
+    {
+      "id": "sb_0477",
+      "title": "Opposition leader slams rival as corrupt in heated partisan showdown in Japan",
+      "category": "civic-benefits",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "partisan_attack"
+    },
+    {
+      "id": "sb_0478",
+      "title": "Unconfirmed report and insiders claim celebrity dating rumour after leaked photos in the United Kingdom",
+      "category": "arts-sports-culture",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "rumour_gossip"
+    },
+    {
+      "id": "sb_0479",
+      "title": "Adult film studio faces inquiry over explicit NSFW subscription content across Canada",
+      "category": "arts-sports-culture",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "adult_content"
+    },
+    {
+      "id": "sb_0480",
+      "title": "Horror stabbing and bloodshed reported outside downtown nightclub in Colombia",
+      "category": "housing-cost-of-living",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "violence_bloodshed"
+    },
+    {
+      "id": "sb_0481",
+      "title": "Drug cartel shootout leaves three dead in coastal province in Australia",
+      "category": "human-progress",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "crime_violence"
+    },
+    {
+      "id": "sb_0482",
+      "title": "Election smear campaign escalates with political attack ad accusations across partner nations",
+      "category": "civic-benefits",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "partisan_politics"
+    },
+    {
+      "id": "sb_0483",
+      "title": "Airstrike and shelling leave dozens of casualties near border town in Nigeria",
+      "category": "peace-diplomacy",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "conflict_casualties"
+    },
+    {
+      "id": "sb_0484",
+      "title": "Fatal crash and multi-vehicle pile-up kills four commuters on motorway in Bangladesh",
+      "category": "human-progress",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "accident_fatal"
+    },
+    {
+      "id": "sb_0485",
+      "title": "Armed robbery suspect arrested after dramatic police manhunt and shooting across Germany",
+      "category": "civic-benefits",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "crime_report"
+    },
+    {
+      "id": "sb_0486",
+      "title": "Analysts warn of World War 3 and nuclear apocalypse brinkmanship in Toronto",
+      "category": "peace-diplomacy",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "war_fear"
+    },
+    {
+      "id": "sb_0487",
+      "title": "Opposition leader slams rival as corrupt in heated partisan showdown in Chile",
+      "category": "civic-benefits",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "partisan_attack"
+    },
+    {
+      "id": "sb_0488",
+      "title": "Unconfirmed report and insiders claim celebrity dating rumour after leaked photos across New Zealand",
+      "category": "arts-sports-culture",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "rumour_gossip"
+    },
+    {
+      "id": "sb_0489",
+      "title": "Adult film studio faces inquiry over explicit NSFW subscription content globally",
+      "category": "arts-sports-culture",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "adult_content"
+    },
+    {
+      "id": "sb_0490",
+      "title": "Horror stabbing and bloodshed reported outside downtown nightclub in Kenya",
+      "category": "housing-cost-of-living",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "violence_bloodshed"
+    },
+    {
+      "id": "sb_0491",
+      "title": "Drug cartel shootout leaves three dead in coastal province across India",
+      "category": "human-progress",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "crime_violence"
+    },
+    {
+      "id": "sb_0492",
+      "title": "Election smear campaign escalates with political attack ad accusations in France",
+      "category": "civic-benefits",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "partisan_politics"
+    },
+    {
+      "id": "sb_0493",
+      "title": "Airstrike and shelling leave dozens of casualties near border town in the United States",
+      "category": "peace-diplomacy",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "conflict_casualties"
+    },
+    {
+      "id": "sb_0494",
+      "title": "Fatal crash and multi-vehicle pile-up kills four commuters on motorway across Brazil",
+      "category": "human-progress",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "accident_fatal"
+    },
+    {
+      "id": "sb_0495",
+      "title": "Armed robbery suspect arrested after dramatic police manhunt and shooting in the Pacific",
+      "category": "civic-benefits",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "crime_report"
+    },
+    {
+      "id": "sb_0496",
+      "title": "Analysts warn of World War 3 and nuclear apocalypse brinkmanship worldwide",
+      "category": "peace-diplomacy",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "war_fear"
+    },
+    {
+      "id": "sb_0497",
+      "title": "Opposition leader slams rival as corrupt in heated partisan showdown across Ethiopia",
+      "category": "civic-benefits",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "partisan_attack"
+    },
+    {
+      "id": "sb_0498",
+      "title": "Unconfirmed report and insiders claim celebrity dating rumour after leaked photos in Japan",
+      "category": "arts-sports-culture",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "rumour_gossip"
+    },
+    {
+      "id": "sb_0499",
+      "title": "Adult film studio faces inquiry over explicit NSFW subscription content in the United Kingdom",
+      "category": "arts-sports-culture",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "adult_content"
+    },
+    {
+      "id": "sb_0500",
+      "title": "Horror stabbing and bloodshed reported outside downtown nightclub across Canada",
+      "category": "housing-cost-of-living",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "violence_bloodshed"
+    },
+    {
+      "id": "sb_0501",
+      "title": "Drug cartel shootout leaves three dead in coastal province in Colombia",
+      "category": "human-progress",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "crime_violence"
+    },
+    {
+      "id": "sb_0502",
+      "title": "Election smear campaign escalates with political attack ad accusations in Australia",
+      "category": "civic-benefits",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "partisan_politics"
+    },
+    {
+      "id": "sb_0503",
+      "title": "Airstrike and shelling leave dozens of casualties near border town across partner nations",
+      "category": "peace-diplomacy",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "conflict_casualties"
+    },
+    {
+      "id": "sb_0504",
+      "title": "Fatal crash and multi-vehicle pile-up kills four commuters on motorway in Nigeria",
+      "category": "human-progress",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "accident_fatal"
+    },
+    {
+      "id": "sb_0505",
+      "title": "Armed robbery suspect arrested after dramatic police manhunt and shooting in Bangladesh",
+      "category": "civic-benefits",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "crime_report"
+    },
+    {
+      "id": "sb_0506",
+      "title": "Analysts warn of World War 3 and nuclear apocalypse brinkmanship across Germany",
+      "category": "peace-diplomacy",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "war_fear"
+    },
+    {
+      "id": "sb_0507",
+      "title": "Opposition leader slams rival as corrupt in heated partisan showdown in Toronto",
+      "category": "civic-benefits",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "partisan_attack"
+    },
+    {
+      "id": "sb_0508",
+      "title": "Unconfirmed report and insiders claim celebrity dating rumour after leaked photos in Chile",
+      "category": "arts-sports-culture",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "rumour_gossip"
+    },
+    {
+      "id": "sb_0509",
+      "title": "Adult film studio faces inquiry over explicit NSFW subscription content across New Zealand",
+      "category": "arts-sports-culture",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "adult_content"
+    },
+    {
+      "id": "sb_0510",
+      "title": "Horror stabbing and bloodshed reported outside downtown nightclub globally",
+      "category": "housing-cost-of-living",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "violence_bloodshed"
+    },
+    {
+      "id": "sb_0511",
+      "title": "Drug cartel shootout leaves three dead in coastal province in Kenya",
+      "category": "human-progress",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "crime_violence"
+    },
+    {
+      "id": "sb_0512",
+      "title": "Election smear campaign escalates with political attack ad accusations across India",
+      "category": "civic-benefits",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "block",
+      "case_type": "partisan_politics"
+    },
+    {
+      "id": "sb_0513",
+      "title": "International scholarship agency offers 100% guaranteed admission with processing fee required — case 1",
+      "category": "scholarships",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "unsure",
+      "case_type": "scholarship_fee_scam"
+    },
+    {
+      "id": "sb_0514",
+      "title": "Global agency promotes guaranteed visa and instant job placement for wire fee — case 2",
+      "category": "visas-global-mobility",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "unsure",
+      "case_type": "visa_scam"
+    },
+    {
+      "id": "sb_0515",
+      "title": "Secret remedy doctors hide promises miracle cure that cures all cancer overnight — case 3",
+      "category": "healthcare-breakthroughs",
+      "continent": "asia",
+      "source_priority": 4,
+      "expected_verdict": "unsure",
+      "case_type": "miracle_cure_claim"
+    },
+    {
+      "id": "sb_0516",
+      "title": "Unverified herbal tonic advertised as anti-aging miracle and guaranteed weight loss pill — case 4",
+      "category": "elderly-care",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "unsure",
+      "case_type": "exaggerated_medical_claim"
+    },
+    {
+      "id": "sb_0517",
+      "title": "Quarterly administrative notice released regarding internal committee schedule — case 5",
+      "category": "human-progress",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "unsure",
+      "case_type": "ambiguous_generic_notice"
+    },
+    {
+      "id": "sb_0518",
+      "title": "International scholarship agency offers 100% guaranteed admission with processing fee required — case 6",
+      "category": "scholarships",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "unsure",
+      "case_type": "scholarship_fee_scam"
+    },
+    {
+      "id": "sb_0519",
+      "title": "Global agency promotes guaranteed visa and instant job placement for wire fee — case 7",
+      "category": "visas-global-mobility",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "unsure",
+      "case_type": "visa_scam"
+    },
+    {
+      "id": "sb_0520",
+      "title": "Secret remedy doctors hide promises miracle cure that cures all cancer overnight — case 8",
+      "category": "healthcare-breakthroughs",
+      "continent": "global",
+      "source_priority": 4,
+      "expected_verdict": "unsure",
+      "case_type": "miracle_cure_claim"
+    },
+    {
+      "id": "sb_0521",
+      "title": "Unverified herbal tonic advertised as anti-aging miracle and guaranteed weight loss pill — case 9",
+      "category": "elderly-care",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "unsure",
+      "case_type": "exaggerated_medical_claim"
+    },
+    {
+      "id": "sb_0522",
+      "title": "Quarterly administrative notice released regarding internal committee schedule — case 10",
+      "category": "human-progress",
+      "continent": "asia",
+      "source_priority": 1,
+      "expected_verdict": "unsure",
+      "case_type": "ambiguous_generic_notice"
+    },
+    {
+      "id": "sb_0523",
+      "title": "International scholarship agency offers 100% guaranteed admission with processing fee required — case 11",
+      "category": "scholarships",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "unsure",
+      "case_type": "scholarship_fee_scam"
+    },
+    {
+      "id": "sb_0524",
+      "title": "Global agency promotes guaranteed visa and instant job placement for wire fee — case 12",
+      "category": "visas-global-mobility",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "unsure",
+      "case_type": "visa_scam"
+    },
+    {
+      "id": "sb_0525",
+      "title": "Secret remedy doctors hide promises miracle cure that cures all cancer overnight — case 13",
+      "category": "healthcare-breakthroughs",
+      "continent": "south-america",
+      "source_priority": 4,
+      "expected_verdict": "unsure",
+      "case_type": "miracle_cure_claim"
+    },
+    {
+      "id": "sb_0526",
+      "title": "Unverified herbal tonic advertised as anti-aging miracle and guaranteed weight loss pill — case 14",
+      "category": "elderly-care",
+      "continent": "oceania",
+      "source_priority": 4,
+      "expected_verdict": "unsure",
+      "case_type": "exaggerated_medical_claim"
+    },
+    {
+      "id": "sb_0527",
+      "title": "Quarterly administrative notice released regarding internal committee schedule — case 15",
+      "category": "human-progress",
+      "continent": "global",
+      "source_priority": 1,
+      "expected_verdict": "unsure",
+      "case_type": "ambiguous_generic_notice"
+    },
+    {
+      "id": "sb_0528",
+      "title": "International scholarship agency offers 100% guaranteed admission with processing fee required — case 16",
+      "category": "scholarships",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "unsure",
+      "case_type": "scholarship_fee_scam"
+    },
+    {
+      "id": "sb_0529",
+      "title": "Global agency promotes guaranteed visa and instant job placement for wire fee — case 17",
+      "category": "visas-global-mobility",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "unsure",
+      "case_type": "visa_scam"
+    },
+    {
+      "id": "sb_0530",
+      "title": "Secret remedy doctors hide promises miracle cure that cures all cancer overnight — case 18",
+      "category": "healthcare-breakthroughs",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "unsure",
+      "case_type": "miracle_cure_claim"
+    },
+    {
+      "id": "sb_0531",
+      "title": "Unverified herbal tonic advertised as anti-aging miracle and guaranteed weight loss pill — case 19",
+      "category": "elderly-care",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "unsure",
+      "case_type": "exaggerated_medical_claim"
+    },
+    {
+      "id": "sb_0532",
+      "title": "Quarterly administrative notice released regarding internal committee schedule — case 20",
+      "category": "human-progress",
+      "continent": "south-america",
+      "source_priority": 1,
+      "expected_verdict": "unsure",
+      "case_type": "ambiguous_generic_notice"
+    },
+    {
+      "id": "sb_0533",
+      "title": "International scholarship agency offers 100% guaranteed admission with processing fee required — case 21",
+      "category": "scholarships",
+      "continent": "oceania",
+      "source_priority": 2,
+      "expected_verdict": "unsure",
+      "case_type": "scholarship_fee_scam"
+    },
+    {
+      "id": "sb_0534",
+      "title": "Global agency promotes guaranteed visa and instant job placement for wire fee — case 22",
+      "category": "visas-global-mobility",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "unsure",
+      "case_type": "visa_scam"
+    },
+    {
+      "id": "sb_0535",
+      "title": "Secret remedy doctors hide promises miracle cure that cures all cancer overnight — case 23",
+      "category": "healthcare-breakthroughs",
+      "continent": "africa",
+      "source_priority": 4,
+      "expected_verdict": "unsure",
+      "case_type": "miracle_cure_claim"
+    },
+    {
+      "id": "sb_0536",
+      "title": "Unverified herbal tonic advertised as anti-aging miracle and guaranteed weight loss pill — case 24",
+      "category": "elderly-care",
+      "continent": "asia",
+      "source_priority": 4,
+      "expected_verdict": "unsure",
+      "case_type": "exaggerated_medical_claim"
+    },
+    {
+      "id": "sb_0537",
+      "title": "Quarterly administrative notice released regarding internal committee schedule — case 25",
+      "category": "human-progress",
+      "continent": "europe",
+      "source_priority": 1,
+      "expected_verdict": "unsure",
+      "case_type": "ambiguous_generic_notice"
+    },
+    {
+      "id": "sb_0538",
+      "title": "International scholarship agency offers 100% guaranteed admission with processing fee required — case 26",
+      "category": "scholarships",
+      "continent": "north-america",
+      "source_priority": 2,
+      "expected_verdict": "unsure",
+      "case_type": "scholarship_fee_scam"
+    },
+    {
+      "id": "sb_0539",
+      "title": "Global agency promotes guaranteed visa and instant job placement for wire fee — case 27",
+      "category": "visas-global-mobility",
+      "continent": "south-america",
+      "source_priority": 2,
+      "expected_verdict": "unsure",
+      "case_type": "visa_scam"
+    },
+    {
+      "id": "sb_0540",
+      "title": "Secret remedy doctors hide promises miracle cure that cures all cancer overnight — case 28",
+      "category": "healthcare-breakthroughs",
+      "continent": "oceania",
+      "source_priority": 4,
+      "expected_verdict": "unsure",
+      "case_type": "miracle_cure_claim"
+    },
+    {
+      "id": "sb_0541",
+      "title": "Unverified herbal tonic advertised as anti-aging miracle and guaranteed weight loss pill — case 29",
+      "category": "elderly-care",
+      "continent": "global",
+      "source_priority": 4,
+      "expected_verdict": "unsure",
+      "case_type": "exaggerated_medical_claim"
+    },
+    {
+      "id": "sb_0542",
+      "title": "Quarterly administrative notice released regarding internal committee schedule — case 30",
+      "category": "human-progress",
+      "continent": "africa",
+      "source_priority": 1,
+      "expected_verdict": "unsure",
+      "case_type": "ambiguous_generic_notice"
+    },
+    {
+      "id": "sb_0543",
+      "title": "International scholarship agency offers 100% guaranteed admission with processing fee required — case 31",
+      "category": "scholarships",
+      "continent": "asia",
+      "source_priority": 2,
+      "expected_verdict": "unsure",
+      "case_type": "scholarship_fee_scam"
+    },
+    {
+      "id": "sb_0544",
+      "title": "Global agency promotes guaranteed visa and instant job placement for wire fee — case 32",
+      "category": "visas-global-mobility",
+      "continent": "europe",
+      "source_priority": 2,
+      "expected_verdict": "unsure",
+      "case_type": "visa_scam"
+    },
+    {
+      "id": "sb_0545",
+      "title": "Secret remedy doctors hide promises miracle cure that cures all cancer overnight — case 33",
+      "category": "healthcare-breakthroughs",
+      "continent": "north-america",
+      "source_priority": 4,
+      "expected_verdict": "unsure",
+      "case_type": "miracle_cure_claim"
+    },
+    {
+      "id": "sb_0546",
+      "title": "Unverified herbal tonic advertised as anti-aging miracle and guaranteed weight loss pill — case 34",
+      "category": "elderly-care",
+      "continent": "south-america",
+      "source_priority": 4,
+      "expected_verdict": "unsure",
+      "case_type": "exaggerated_medical_claim"
+    },
+    {
+      "id": "sb_0547",
+      "title": "Quarterly administrative notice released regarding internal committee schedule — case 35",
+      "category": "human-progress",
+      "continent": "oceania",
+      "source_priority": 1,
+      "expected_verdict": "unsure",
+      "case_type": "ambiguous_generic_notice"
+    },
+    {
+      "id": "sb_0548",
+      "title": "International scholarship agency offers 100% guaranteed admission with processing fee required — case 36",
+      "category": "scholarships",
+      "continent": "global",
+      "source_priority": 2,
+      "expected_verdict": "unsure",
+      "case_type": "scholarship_fee_scam"
+    },
+    {
+      "id": "sb_0549",
+      "title": "Global agency promotes guaranteed visa and instant job placement for wire fee — case 37",
+      "category": "visas-global-mobility",
+      "continent": "africa",
+      "source_priority": 2,
+      "expected_verdict": "unsure",
+      "case_type": "visa_scam"
+    },
+    {
+      "id": "sb_0550",
+      "title": "Secret remedy doctors hide promises miracle cure that cures all cancer overnight — case 38",
+      "category": "healthcare-breakthroughs",
+      "continent": "asia",
+      "source_priority": 4,
+      "expected_verdict": "unsure",
+      "case_type": "miracle_cure_claim"
+    },
+    {
+      "id": "sb_0551",
+      "title": "Unverified herbal tonic advertised as anti-aging miracle and guaranteed weight loss pill — case 39",
+      "category": "elderly-care",
+      "continent": "europe",
+      "source_priority": 4,
+      "expected_verdict": "unsure",
+      "case_type": "exaggerated_medical_claim"
+    },
+    {
+      "id": "sb_0552",
+      "title": "Quarterly administrative notice released regarding internal committee schedule — case 40",
+      "category": "human-progress",
+      "continent": "north-america",
+      "source_priority": 1,
+      "expected_verdict": "unsure",
+      "case_type": "ambiguous_generic_notice"
+    }
+  ]
+}

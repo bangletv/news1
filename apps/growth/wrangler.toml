@@ -1,0 +1,22 @@
+name = "osn-growth"
+main = "src/sitemaps.ts"
+compatibility_date = "2026-10-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+CANONICAL_ORIGIN = "https://theopensource.news"
+FB_DAILY_CAP = "8"
+
+# Secrets configured via wrangler secret:
+#   INDEXNOW_KEY
+#   FB_PAGE_TOKEN
+
+[[services]]
+binding = "API_SERVICE"
+service = "osn-api"
+
+[env.staging]
+name = "osn-growth-staging"
+
+[env.staging.vars]
+CANONICAL_ORIGIN = "https://staging.theopensource.news"

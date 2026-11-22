@@ -1,0 +1,22 @@
+name = "osn-web"
+compatibility_date = "2026-10-01"
+pages_build_output_dir = "../../dist"
+
+[vars]
+APP_ENV = "production"
+CANONICAL_ORIGIN = "https://theopensource.news"
+
+[[services]]
+binding = "API_SERVICE"
+service = "osn-api"
+
+[env.staging]
+name = "osn-web-staging"
+
+[env.staging.vars]
+APP_ENV = "staging"
+CANONICAL_ORIGIN = "https://staging.theopensource.news"
+
+[[env.staging.services]]
+binding = "API_SERVICE"
+service = "osn-api-staging"

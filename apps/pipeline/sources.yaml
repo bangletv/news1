@@ -1,0 +1,393 @@
+schemaVersion: 1
+sources:
+  - source_id: un-news
+    name: UN News
+    domain: news.un.org
+    country: null
+    continent: global
+    language: en
+    source_priority: 1
+    feed_url: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+    feed_type: rss
+    license: UN Public Information
+    logo_permitted: false
+    terms_checked_at: "2026-10-15T10:00:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-21T10:00:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: who-news
+    name: World Health Organization
+    domain: who.int
+    country: null
+    continent: global
+    language: en
+    source_priority: 1
+    feed_url: https://www.who.int/rss-feeds/news-english.xml
+    feed_type: rss
+    license: WHO Open Access
+    logo_permitted: false
+    terms_checked_at: "2026-10-15T10:00:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-21T09:30:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: world-bank
+    name: World Bank
+    domain: worldbank.org
+    country: null
+    continent: global
+    language: en
+    source_priority: 1
+    feed_url: https://feeds.worldbank.org/worldbank/news/all
+    feed_type: rss
+    license: CC BY 4.0
+    logo_permitted: false
+    terms_checked_at: "2026-10-16T09:00:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-21T08:45:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: ukri-funding
+    name: UK Research and Innovation
+    domain: ukri.org
+    country: GB
+    continent: europe
+    language: en
+    source_priority: 1
+    feed_url: https://www.ukri.org/opportunity/feed/
+    feed_type: rss
+    license: Open Government Licence v3.0
+    logo_permitted: false
+    terms_checked_at: "2026-10-18T11:00:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-21T11:00:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: nasa-science
+    name: NASA
+    domain: nasa.gov
+    country: US
+    continent: north-america
+    language: en
+    source_priority: 1
+    feed_url: https://www.nasa.gov/feed/
+    feed_type: rss
+    license: US Government Public Domain
+    logo_permitted: false
+    terms_checked_at: "2026-10-18T11:30:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-21T11:15:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: oxford-research
+    name: University of Oxford
+    domain: ox.ac.uk
+    country: GB
+    continent: europe
+    language: en
+    source_priority: 2
+    feed_url: https://www.ox.ac.uk/news-and-events/rss
+    feed_type: rss
+    license: Institutional Attribution
+    logo_permitted: false
+    terms_checked_at: "2026-10-20T14:00:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-21T07:00:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: mit-news
+    name: MIT News
+    domain: news.mit.edu
+    country: US
+    continent: north-america
+    language: en
+    source_priority: 2
+    feed_url: https://news.mit.edu/rss/feed
+    feed_type: rss
+    license: CC BY-NC-ND 3.0
+    logo_permitted: false
+    terms_checked_at: "2026-10-20T14:15:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-21T09:00:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: csiro-australia
+    name: CSIRO Australia
+    domain: csiro.au
+    country: AU
+    continent: oceania
+    language: en
+    source_priority: 2
+    feed_url: https://www.csiro.au/en/news/rss
+    feed_type: rss
+    license: CC BY 4.0
+    logo_permitted: false
+    terms_checked_at: "2026-10-22T08:00:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-21T06:30:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: unesco-culture
+    name: UNESCO
+    domain: unesco.org
+    country: null
+    continent: global
+    language: en
+    source_priority: 1
+    feed_url: https://www.unesco.org/en/rss.xml
+    feed_type: rss
+    license: UNESCO IGO Open Access
+    logo_permitted: false
+    terms_checked_at: "2026-10-23T10:00:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-21T10:20:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: nature-research
+    name: Nature Portfolio
+    domain: nature.com
+    country: GB
+    continent: europe
+    language: en
+    source_priority: 4
+    feed_url: https://www.nature.com/nature.rss
+    feed_type: rss
+    license: Springer Nature RSS Terms
+    logo_permitted: false
+    terms_checked_at: "2026-10-25T12:00:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-21T09:50:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: african-union
+    name: African Union
+    domain: au.int
+    country: null
+    continent: africa
+    language: en
+    source_priority: 1
+    feed_url: https://au.int/en/rss.xml
+    feed_type: rss
+    license: AU Public Information
+    logo_permitted: false
+    terms_checked_at: "2026-10-26T09:00:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-21T08:15:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: eclac-cepal
+    name: UN ECLAC
+    domain: cepal.org
+    country: CL
+    continent: south-america
+    language: en
+    source_priority: 1
+    feed_url: https://www.cepal.org/en/rss.xml
+    feed_type: rss
+    license: UN ECLAC Public Information
+    logo_permitted: false
+    terms_checked_at: "2026-10-27T11:00:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-21T08:00:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: bangladesh-ugc
+    name: University Grants Commission of Bangladesh
+    domain: ugc.gov.bd
+    country: BD
+    continent: asia
+    language: bn
+    source_priority: 1
+    feed_url: https://ugc.gov.bd/site/rss
+    feed_type: rss
+    license: Bangladesh Government Portal
+    logo_permitted: false
+    terms_checked_at: "2026-10-28T09:00:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-21T07:30:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: adb-news
+    name: Asian Development Bank
+    domain: adb.org
+    country: null
+    continent: asia
+    language: en
+    source_priority: 1
+    feed_url: https://www.adb.org/rss
+    feed_type: rss
+    license: ADB Open Access Terms
+    logo_permitted: false
+    terms_checked_at: "2026-11-22T09:20:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-22T09:20:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: undp-news
+    name: UNDP
+    domain: undp.org
+    country: null
+    continent: global
+    language: en
+    source_priority: 1
+    feed_url: https://www.undp.org/rss.xml
+    feed_type: rss
+    license: UN Public Information
+    logo_permitted: false
+    terms_checked_at: "2026-11-22T09:20:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-22T09:20:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: unicef-bd
+    name: UNICEF
+    domain: unicef.org
+    country: null
+    continent: global
+    language: en
+    source_priority: 1
+    feed_url: https://www.unicef.org/rss.xml
+    feed_type: rss
+    license: UN Public Information
+    logo_permitted: false
+    terms_checked_at: "2026-11-22T09:20:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-22T09:20:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: ilo-news
+    name: International Labour Organization
+    domain: ilo.org
+    country: null
+    continent: global
+    language: en
+    source_priority: 1
+    feed_url: https://www.ilo.org/rss/news
+    feed_type: rss
+    license: ILO Open Access
+    logo_permitted: false
+    terms_checked_at: "2026-11-22T09:20:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-22T09:20:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: un-bangladesh
+    name: United Nations Bangladesh
+    domain: bangladesh.un.org
+    country: BD
+    continent: asia
+    language: en
+    source_priority: 1
+    feed_url: https://bangladesh.un.org/en/rss.xml
+    feed_type: rss
+    license: UN Public Information
+    logo_permitted: false
+    terms_checked_at: "2026-11-22T09:20:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-22T09:20:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: iucn-news
+    name: IUCN
+    domain: iucn.org
+    country: CH
+    continent: europe
+    language: en
+    source_priority: 2
+    feed_url: https://iucn.org/rss.xml
+    feed_type: rss
+    license: IUCN Open Information
+    logo_permitted: false
+    terms_checked_at: "2026-11-22T09:20:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-22T09:20:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: the-guardian
+    name: The Guardian
+    domain: theguardian.com
+    country: GB
+    continent: europe
+    language: en
+    source_priority: 4
+    feed_url: https://www.theguardian.com/world/bangladesh/rss
+    feed_type: rss
+    license: Guardian Headline Attribution
+    logo_permitted: false
+    terms_checked_at: "2026-11-22T09:20:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-22T09:20:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: al-jazeera
+    name: Al Jazeera
+    domain: aljazeera.com
+    country: QA
+    continent: asia
+    language: en
+    source_priority: 4
+    feed_url: https://www.aljazeera.com/xml/rss/all.xml
+    feed_type: rss
+    license: Al Jazeera Headline Attribution
+    logo_permitted: false
+    terms_checked_at: "2026-11-22T09:20:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-22T09:20:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: fao-un
+    name: Food and Agriculture Organization (FAO)
+    domain: fao.org
+    country: null
+    continent: south-america
+    language: en
+    source_priority: 1
+    feed_url: https://www.fao.org/news/rss-feed/en/
+    feed_type: rss
+    license: FAO Open Access
+    logo_permitted: false
+    terms_checked_at: "2026-11-22T09:35:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-22T09:35:00Z"
+    owner: ops@theopensource.news
+
+  - source_id: cambridge-funding
+    name: University of Cambridge
+    domain: cam.ac.uk
+    country: GB
+    continent: europe
+    language: en
+    source_priority: 2
+    feed_url: https://www.cam.ac.uk/news/feed
+    feed_type: rss
+    license: Institutional Attribution
+    logo_permitted: false
+    terms_checked_at: "2026-11-22T09:35:00Z"
+    robots_ok: true
+    status: active
+    last_success_at: "2026-11-22T09:35:00Z"
+    owner: ops@theopensource.news
+

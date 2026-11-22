@@ -1,0 +1,10 @@
+{
+  "name": "@osn/api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test \"../../tests/security-and-fidelity.test.ts\""
+  }
+}

@@ -1,0 +1,35 @@
+name = "osn-pipeline"
+main = "src/worker.ts"
+compatibility_date = "2026-10-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+USER_AGENT = "TheOpenSourceNewsBot/1.0 (+https://theopensource.news/our-approach)"
+MATCH_THRESHOLD = "0.8"
+MAX_REDIRECTS = "5"
+MONTHLY_COST_CAP_USD = "25.00"
+PER_ITEM_COST_CAP_USD = "0.005"
+
+[triggers]
+crons = ["*/15 * * * *", "0 * * * *"]
+
+[[queues.producers]]
+binding = "HARVEST_QUEUE"
+queue = "osn-harvest-jobs"
+
+[[queues.consumers]]
+queue = "osn-harvest-jobs"
+max_batch_size = 10
+max_retries = 3
+dead_letter_queue = "osn-harvest-dlq"
+
+[[services]]
+binding = "API_SERVICE"
+service = "osn-api"
+
+[env.staging]
+name = "osn-pipeline-staging"
+
+[[env.staging.services]]
+binding = "API_SERVICE"
+service = "osn-api-staging"

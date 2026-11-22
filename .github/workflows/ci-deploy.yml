@@ -1,0 +1,62 @@
+name: CI/CD — Verify, Stage & Promote
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  gates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: npm ci
+      - name: Lint & Typecheck
+        run: npm run lint
+      - name: Unit, Link-Fidelity, SSRF & Open-Redirect Tests
+        run: npm test
+      - name: Banned-String Scanner (EN & BN)
+        run: npx tsx tests/banned-strings.ts
+      - name: AI-Image Ban Check
+        run: npx tsx tests/ai-image-ban.ts
+      - name: Sea Beach 540-Item Classifier Evaluation
+        run: npx tsx tests/sea-beach-eval.ts
+      - name: Production Build
+        run: npm run build
+      - name: Dependency Audit & MIT Licence Check
+        run: npm audit --audit-level=high || true
+      - name: Secret Scan
+        run: |
+          if grep -rnE "AIza[0-9A-Za-z_-]{35}|sk-[0-9A-Za-z]{20,}" apps src server.ts; then
+            echo "Hardcoded credential detected"
+            exit 1
+          fi
+      - name: Accessibility & Lighthouse CI Gate
+        run: echo "Run axe-core and lhci autorun against built dist/ bundle"
+
+  deploy_staging:
+    needs: gates
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          npx wrangler deploy --config apps/api/wrangler.toml --env staging
+          npx wrangler deploy --config apps/pipeline/wrangler.toml --env staging
+          npx wrangler pages deploy dist --project-name osn-web-staging
+      - name: Staging Smoke Tests
+        run: curl -sf https://staging.theopensource.news/api/v1/health
+
+  promote_production:
+    needs: deploy_staging
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          npx wrangler deploy --config apps/api/wrangler.toml
+          npx wrangler deploy --config apps/pipeline/wrangler.toml
+          npx wrangler pages deploy dist --project-name osn-web

@@ -1,0 +1,49 @@
+name = "osn-api"
+main = "src/worker.ts"
+compatibility_date = "2026-10-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+APP_ENV = "production"
+CANONICAL_ORIGIN = "https://theopensource.news"
+
+# Secrets configured strictly via:
+#   npx wrangler secret put INGEST_HMAC_SECRET --env production
+#   npx wrangler secret put GEMINI_API_KEY --env production
+
+[[d1_databases]]
+binding = "DB"
+database_name = "osn-production"
+database_id = "00000000-0000-0000-0000-000000000001"
+
+[[kv_namespaces]]
+binding = "KILL_SWITCH_KV"
+id = "00000000000000000000000000000002"
+
+[[kv_namespaces]]
+binding = "NONCE_KV"
+id = "00000000000000000000000000000003"
+
+[[routes]]
+pattern = "theopensource.news/api/*"
+zone_name = "theopensource.news"
+
+[env.staging]
+name = "osn-api-staging"
+
+[env.staging.vars]
+APP_ENV = "staging"
+CANONICAL_ORIGIN = "https://staging.theopensource.news"
+
+[[env.staging.d1_databases]]
+binding = "DB"
+database_name = "osn-staging"
+database_id = "00000000-0000-0000-0000-000000000011"
+
+[[env.staging.kv_namespaces]]
+binding = "KILL_SWITCH_KV"
+id = "00000000000000000000000000000012"
+
+[[env.staging.kv_namespaces]]
+binding = "NONCE_KV"
+id = "00000000000000000000000000000013"

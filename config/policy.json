@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "url": {
+    "trackingParams": [
+      "fbclid", "gclid", "dclid", "msclkid", "mc_cid", "mc_eid", "igshid",
+      "ocid", "ref", "ref_src", "cmpid", "xtor", "ito", "spm", "yclid",
+      "_ga", "_gl", "cid", "campaign", "source_ref"
+    ],
+    "trackingPrefixes": ["utm_", "at_", "ns_", "mkt_", "pk_", "hsa_", "icid"]
+  },
+  "pillars": {
+    "progress": "Progress",
+    "opportunity": "Opportunity",
+    "health-care": "Health & Care",
+    "rights-life": "Rights & Life",
+    "planet-food": "Planet & Food",
+    "culture-life": "Culture & Life"
+  },
+  "topics": [
+    {
+      "id": "jobs_employment",
+      "label": "Jobs and employment",
+      "pillar": "opportunity",
+      "weight": 2,
+      "keywords": [
+        "job", "jobs", "hiring", "vacancy", "vacancies", "recruitment",
+        "employment", "unemployment", "apprenticeship*", "internship*",
+        "career*", "workforce", "labour market", "labor market"
+      ]
+    },
+    {
+      "id": "scholarships_education",
+      "label": "Scholarships and education",
+      "pillar": "opportunity",
+      "weight": 2,
+      "keywords": [
+        "scholarship*", "fellowship*", "bursar*", "tuition", "student*",
+        "school", "schools", "education", "universit*", "classroom*",
+        "curriculum", "literacy", "teacher*"
+      ]
+    },
+    {
+      "id": "grants_funding",
+      "label": "Grants and funding",
+      "pillar": "opportunity",
+      "weight": 2,
+      "keywords": [
+        "grant", "grants", "funding", "seed funding", "call for proposals",
+        "call for applications", "subsid*", "fund", "microfinance", "financing"
+      ]
+    },
+    {
+      "id": "healthcare",
+      "label": "Healthcare",
+      "pillar": "health-care",
+      "weight": 2,
+      "keywords": [
+        "health", "healthcare", "hospital*", "clinic*", "vaccin*", "disease*",
+        "outbreak*", "patient*", "medicine*", "medical", "cancer", "malaria",
+        "tuberculosis", "hiv", "cholera", "measles", "mental health", "nurse*",
+        "doctors", "who warns", "epidemic", "pandemic", "nutrition"
+      ]
+    },
+    {
+      "id": "public_services",
+      "label": "Government public services",
+      "pillar": "rights-life",
+      "weight": 1,
+      "keywords": [
+        "public service*", "census", "passport*", "pension*", "welfare",
+        "benefit payments", "social security", "tax credit*", "licence",
+        "license renewal", "public consultation", "e-government"
+      ]
+    },
+    {
+      "id": "citizen_benefits",
+      "label": "Citizen benefits",
+      "pillar": "rights-life",
+      "weight": 1,
+      "keywords": [
+        "benefits", "cash transfer*", "subsidy", "child benefit",
+        "housing support", "food assistance", "social protection"
+      ]
+    },
+    {
+      "id": "human_rights",
+      "label": "Rights and justice",
+      "pillar": "rights-life",
+      "weight": 2,
+      "keywords": [
+        "human rights", "rights", "genocide", "refugee*", "asylum", "justice",
+        "court", "tribunal", "ruling", "discrimination", "equality",
+        "freedom of", "women", "children", "violence against women", "gender",
+        "minorit*", "indigenous", "trafficking", "sanctions"
+      ]
+    },
+    {
+      "id": "humanitarian",
+      "label": "Humanitarian work",
+      "pillar": "rights-life",
+      "weight": 3,
+      "keywords": [
+        "humanitarian", "relief", "aid", "displaced", "famine", "wfp",
+        "unicef", "unhcr", "rescue", "emergency response", "shelter",
+        "food crisis", "hunger"
+      ]
+    },
+    {
+      "id": "peace_reconstruction",
+      "label": "Peace and reconstruction",
+      "pillar": "rights-life",
+      "weight": 2,
+      "keywords": [
+        "peace", "ceasefire", "reconstruction", "rebuild*", "mediation",
+        "peace talks", "negotiat*", "treaty", "peacekeep*", "reconciliation",
+        "demining", "bloodshed"
+      ]
+    },
+    {
+      "id": "science_research",
+      "label": "Science and research",
+      "pillar": "progress",
+      "weight": 2,
+      "keywords": [
+        "research", "study", "scientists", "discovery", "telescope",
+        "satellite", "mission", "space", "laboratory", "genome", "astronom*",
+        "physics", "mars", "rover", "observatory", "earth observatory",
+        "geolog*", "minerals"
+      ]
+    },
+    {
+      "id": "innovation",
+      "label": "Innovation",
+      "pillar": "progress",
+      "weight": 2,
+      "keywords": [
+        "innovation", "startup*", "prototype*", "patent*", "breakthrough",
+        "ai safety", "artificial intelligence", "quantum", "robotics",
+        "open source", "summit"
+      ]
+    },
+    {
+      "id": "technology_for_people",
+      "label": "Technology that benefits people",
+      "pillar": "progress",
+      "weight": 1,
+      "keywords": [
+        "digital inclusion", "accessibility", "open data", "telemedicine",
+        "assistive", "connectivity", "digital public"
+      ]
+    },
+    {
+      "id": "infrastructure",
+      "label": "Infrastructure",
+      "pillar": "progress",
+      "weight": 2,
+      "keywords": [
+        "infrastructure", "bridge", "bridges", "railway*", "rail network",
+        "highway*", "port", "airport", "broadband", "power grid",
+        "power plant*", "water supply", "housing", "sanitation",
+        "electrification", "transport"
+      ]
+    },
+    {
+      "id": "environment",
+      "label": "Environment",
+      "pillar": "planet-food",
+      "weight": 2,
+      "keywords": [
+        "climate", "emissions", "biodiversity", "conservation", "pollution",
+        "renewable*", "flood*", "drought*", "coral", "forest*", "ocean*",
+        "wildfire*", "fossil fuel*", "cop30", "cop31", "cop32", "carbon",
+        "waves", "snow", "mangrove*", "glacier*", "wildlife", "baobab*",
+        "rains", "storm*", "desert"
+      ]
+    },
+    {
+      "id": "agriculture_food",
+      "label": "Agriculture and food",
+      "pillar": "planet-food",
+      "weight": 2,
+      "keywords": [
+        "farm*", "harvest*", "crop*", "food security", "fisher*",
+        "irrigation", "agricultur*", "livestock", "seeds", "soil", "food prices"
+      ]
+    },
+    {
+      "id": "economy_opportunity",
+      "label": "Economic opportunities",
+      "pillar": "opportunity",
+      "weight": 1,
+      "keywords": [
+        "economy", "economic", "trade", "investment", "small business*", "sme",
+        "smes", "entrepreneur*", "markets", "inflation", "stock", "funds",
+        "critical minerals", "production capacity"
+      ]
+    },
+    {
+      "id": "local_developments",
+      "label": "Important local developments",
+      "pillar": "rights-life",
+      "weight": 1,
+      "keywords": [
+        "council", "municipal*", "community", "communities", "county",
+        "district", "mayor", "local authority", "coastal communities"
+      ]
+    },
+    {
+      "id": "culture_heritage",
+      "label": "Culture and heritage",
+      "pillar": "culture-life",
+      "weight": 2,
+      "keywords": [
+        "heritage", "museum*", "festival*", "archaeolog*", "literature",
+        "language", "arts", "exhibition*", "unesco", "cultural", "library",
+        "libraries", "traditional music"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "id": "gambling",
+      "label": "Lottery and gambling",
+      "severity": "hard",
+      "patterns": [
+        "lottery", "lotto", "jackpot", "powerball", "mega millions", "casino*",
+        "gambling", "sports betting", "sportsbook", "bookmaker*",
+        "betting tips", "slot machine*", "online poker", "bingo"
+      ]
+    },
+    {
+      "id": "adult_explicit",
+      "label": "Explicit adult content",
+      "severity": "hard",
+      "patterns": ["xxx", "onlyfans", "nsfw", "sex tape*", "adult film*"]
+    },
+    {
+      "id": "adult_news",
+      "label": "Adult content (reporting may be exempt)",
+      "severity": "soft",
+      "patterns": ["porn*", "erotic*", "sex scandal*", "sexual content"]
+    },
+    {
+      "id": "clickbait",
+      "label": "Sensational clickbait",
+      "severity": "soft",
+      "patterns": [
+        "you won't believe", "will shock you", "shocking", "jaw-dropping",
+        "what happened next", "this one weird trick", "gone viral",
+        "goes viral", "you need to see", "doctors hate",
+        "will blow your mind", "mind-blowing", "unbelievable"
+      ]
+    },
+    {
+      "id": "gratuitous_violence",
+      "label": "Gratuitous violence and bloodshed",
+      "severity": "soft",
+      "patterns": [
+        "gruesome", "grisly", "bloodbath", "blood-soaked", "mutilat*",
+        "decapitat*", "graphic footage", "graphic video", "dismember*",
+        "bloodshed"
+      ]
+    },
+    {
+      "id": "crime_sensationalism",
+      "label": "Crime sensationalism",
+      "severity": "soft",
+      "patterns": [
+        "serial killer", "true crime", "killer clown", "horrific murder",
+        "caught on camera", "caught on video"
+      ]
+    },
+    {
+      "id": "war_fear",
+      "label": "War-fear manipulation",
+      "severity": "soft",
+      "patterns": [
+        "world war 3", "world war iii", "third world war",
+        "nuclear apocalypse", "doomsday", "end of the world"
+      ]
+    },
+    {
+      "id": "rumours",
+      "label": "Rumours",
+      "severity": "soft",
+      "patterns": [
+        "rumour*", "rumor*", "unconfirmed reports", "fans speculate",
+        "insiders claim", "leaked photos"
+      ]
+    },
+    {
+      "id": "gossip",
+      "label": "Irrelevant gossip",
+      "severity": "soft",
+      "patterns": [
+        "celebrity", "celebrities", "red carpet", "wardrobe malfunction",
+        "net worth", "baby bump", "dating rumo*", "spotted with",
+        "reality star*", "kardashian*"
+      ]
+    },
+    {
+      "id": "propaganda_sources",
+      "label": "Sources flagged as propaganda risk",
+      "severity": "hard",
+      "sourceFlags": ["propaganda_risk", "state_propaganda"]
+    }
+  ],
+  "publicInterest": {
+    "exemptMaxTrustTier": 2,
+    "note": "Soft exclusions are waived when the source is trust tier <= exemptMaxTrustTier AND the headline matches at least one priority topic. Hard exclusions are never waived."
+  },
+  "publishing": {
+    "allowHttp": false,
+    "headlineMinChars": 10,
+    "headlineMaxChars": 300,
+    "allowMissingDate": true,
+    "maxFutureHours": 24,
+    "maxAgeDays": 90,
+    "maxAgeDaysBySourceClass": {
+      "government": 365,
+      "university_research": 365,
+      "international_org": 180
+    },
+    "requireClassification": true
+  },
+  "dedupe": {
+    "sameSourceTitleWindowHours": 72,
+    "crossSource": "allow",
+    "nearDuplicateThreshold": 0.85,
+    "nearDuplicateWindowHours": 48
+  },
+  "limits": {
+    "maxItemsPerEndpointPerRun": 300,
+    "maxPublishedPerSourcePerDay": 500,
+    "fetchTimeoutMs": 15000,
+    "minIntervalMsPerHost": 1000,
+    "maxFeedBytes": 5000000,
+    "maxEndpointsPerRun": 1000
+  },
+  "retention": {
+    "exclusionsMax": 50000,
+    "exceptionsMax": 20000
+  },
+  "integrity": {
+    "maxRedirects": 5,
+    "maxPageBytes": 262144,
+    "matchThreshold": 0.7,
+    "mismatchThreshold": 0.35,
+    "definitiveStatuses": [404, 410],
+    "suspendAfterConsecutiveFailures": 3,
+    "ambiguousChecksBeforeSuspend": 3,
+    "restoreAfterConsecutiveOk": 2,
+    "removeAfterDaysSuspended": 14,
+    "recheckHours": {
+      "verified": 24,
+      "unverifiable": 72,
+      "suspended": 6
+    },
+    "recheckMinutes": {
+      "under_watch": 30
+    },
+    "softNotFoundPhrases": [
+      "page not found", "404 not found", "error 404",
+      "page cannot be found", "no longer available",
+      "this page doesn't exist", "we couldn't find that page",
+      "page you requested"
+    ]
+  },
+  "places": [
+    { "names": ["ukraine", "ukrainian", "kyiv", "crimea", "crimean", "zelensky"], "country": "UA" },
+    { "names": ["united kingdom", "britain", "british", "england", "scotland", "wales", "london"], "country": "GB" },
+    { "names": ["united states", "u.s.", "american", "washington", "california", "sierra"], "country": "US" },
+    { "names": ["canada", "canadian"], "country": "CA" },
+    { "names": ["mexico", "mexican"], "country": "MX" },
+    { "names": ["brazil", "brazilian", "amazon"], "country": "BR" },
+    { "names": ["argentina", "argentine"], "country": "AR" },
+    { "names": ["chile", "chilean", "atacama"], "country": "CL" },
+    { "names": ["colombia", "colombian"], "country": "CO" },
+    { "names": ["peru", "peruvian"], "country": "PE" },
+    { "names": ["venezuela", "venezuelan"], "country": "VE" },
+    { "names": ["nigeria", "nigerian"], "country": "NG" },
+    { "names": ["south africa", "south african"], "country": "ZA" },
+    { "names": ["kenya", "kenyan"], "country": "KE" },
+    { "names": ["ethiopia", "ethiopian"], "country": "ET" },
+    { "names": ["egypt", "egyptian"], "country": "EG" },
+    { "names": ["ghana", "ghanaian"], "country": "GH" },
+    { "names": ["sudan", "sudanese"], "country": "SD" },
+    { "names": ["south sudan"], "country": "SS" },
+    { "names": ["congo", "congolese"], "country": "CD" },
+    { "names": ["somalia", "somali"], "country": "SO" },
+    { "names": ["morocco", "moroccan"], "country": "MA" },
+    { "names": ["algeria", "algerian"], "country": "DZ" },
+    { "names": ["tanzania", "tanzanian"], "country": "TZ" },
+    { "names": ["uganda", "ugandan"], "country": "UG" },
+    { "names": ["angola", "angolan"], "country": "AO" },
+    { "names": ["india", "indian"], "country": "IN" },
+    { "names": ["pakistan", "pakistani"], "country": "PK" },
+    { "names": ["bangladesh", "bangladeshi"], "country": "BD" },
+    { "names": ["china", "chinese"], "country": "CN" },
+    { "names": ["japan", "japanese"], "country": "JP" },
+    { "names": ["south korea", "south korean"], "country": "KR" },
+    { "names": ["north korea", "north korean"], "country": "KP" },
+    { "names": ["indonesia", "indonesian"], "country": "ID" },
+    { "names": ["philippines", "filipino"], "country": "PH" },
+    { "names": ["vietnam", "vietnamese"], "country": "VN" },
+    { "names": ["thailand", "thai"], "country": "TH" },
+    { "names": ["myanmar", "rohingya", "burma"], "country": "MM" },
+    { "names": ["afghanistan", "afghan"], "country": "AF" },
+    { "names": ["iran", "iranian"], "country": "IR" },
+    { "names": ["iraq", "iraqi"], "country": "IQ" },
+    { "names": ["israel", "israeli"], "country": "IL" },
+    { "names": ["gaza", "west bank", "palestinian", "palestine"], "country": "PS" },
+    { "names": ["syria", "syrian"], "country": "SY" },
+    { "names": ["turkey", "turkish", "türkiye"], "country": "TR" },
+    { "names": ["saudi arabia", "saudi"], "country": "SA" },
+    { "names": ["yemen", "yemeni"], "country": "YE" },
+    { "names": ["lebanon", "lebanese"], "country": "LB" },
+    { "names": ["jordan", "jordanian"], "country": "JO" },
+    { "names": ["russia", "russian", "kremlin"], "country": "RU" },
+    { "names": ["germany", "german", "berlin"], "country": "DE" },
+    { "names": ["france", "french", "paris"], "country": "FR" },
+    { "names": ["italy", "italian", "venice"], "country": "IT" },
+    { "names": ["spain", "spanish"], "country": "ES" },
+    { "names": ["poland", "polish"], "country": "PL" },
+    { "names": ["netherlands", "dutch"], "country": "NL" },
+    { "names": ["greece", "greek"], "country": "GR" },
+    { "names": ["australia", "australian"], "country": "AU" },
+    { "names": ["new zealand"], "country": "NZ" },
+    { "names": ["fiji", "fijian"], "country": "FJ" },
+    { "names": ["papua new guinea"], "country": "PG" },
+    { "names": ["africa", "african"], "continent": "Africa" },
+    { "names": ["asia", "asian", "south asia"], "continent": "Asia" },
+    { "names": ["europe", "european"], "continent": "Europe" },
+    { "names": ["north america"], "continent": "North America" },
+    { "names": ["south america", "latin america"], "continent": "South America" },
+    { "names": ["oceania", "pacific", "southwest pacific"], "continent": "Oceania" }
+  ]
+}

@@ -1,0 +1,20 @@
+name: Rollback Production Deployment
+
+on:
+  workflow_dispatch:
+    inputs:
+      deployment_id:
+        description: "Cloudflare deployment ID to restore"
+        required: true
+      reason:
+        description: "Incident reference or rollback reason"
+        required: true
+
+jobs:
+  rollback:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          echo "Rolling back osn-api and osn-pipeline to ${{ github.event.inputs.deployment_id }} (${{ github.event.inputs.reason }})"
+          npx wrangler rollback ${{ github.event.inputs.deployment_id }} --config apps/api/wrangler.toml

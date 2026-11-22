@@ -1,0 +1,6 @@
+{
+  "name": "TheOpenSource.news",
+  "description": "Link-first open-source news collection, source governance, link integrity, and policy classification engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

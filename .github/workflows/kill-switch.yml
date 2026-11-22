@@ -1,0 +1,20 @@
+name: KV Kill Switch Control
+
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        type: choice
+        options: [set, clear]
+        required: true
+      scope:
+        description: "global, source:<source_id>, or category:<slug>"
+        required: true
+        default: "global"
+
+jobs:
+  toggle_kill_switch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: npx tsx scripts/kill-switch.ts ${{ github.event.inputs.action }} ${{ github.event.inputs.scope }}

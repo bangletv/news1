@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "note": "Edit within the authority ceiling defined in src/agents/config.ts. A config that exceeds the ceiling is rejected at load time; agents cannot edit this file.",
+  "agents": {
+    "A": {
+      "name": "Source & Collection Monitor",
+      "enabled": true,
+      "intervalMinutes": 15,
+      "permissions": [
+        "read:sources",
+        "read:items",
+        "read:runtime",
+        "read:exceptions",
+        "read:exclusions",
+        "read:findings",
+        "write:findings",
+        "write:source_pause"
+      ],
+      "limits": {
+        "maxFindingsPerRun": 200,
+        "maxPausesPerRun": 20
+      },
+      "thresholds": {
+        "warnAfterFailures": 3,
+        "pauseAfterFailures": 8,
+        "staleFactor": 4,
+        "minSamplesForVolume": 5,
+        "dropRatio": 0.2,
+        "spikeFactor": 5,
+        "spikeMinItems": 20,
+        "minAverageForEmptyAlert": 3,
+        "linkViolationWindowHours": 24,
+        "linkViolationMinItems": 5,
+        "linkViolationRatio": 0.3
+      }
+    },
+    "B": {
+      "name": "Link & Story Identity Monitor",
+      "enabled": true,
+      "intervalMinutes": 10,
+      "permissions": [
+        "read:sources",
+        "read:policy",
+        "read:items",
+        "read:exceptions",
+        "read:findings",
+        "write:findings",
+        "write:integrity",
+        "network:fetch_pages",
+        "ai:review"
+      ],
+      "limits": {
+        "maxChecksPerRun": 500,
+        "maxAiReviewsPerRun": 25,
+        "maxFindingsPerRun": 300
+      },
+      "thresholds": {}
+    },
+    "C": {
+      "name": "Published Feed Integrity Monitor",
+      "enabled": true,
+      "intervalMinutes": 30,
+      "permissions": [
+        "read:sources",
+        "read:policy",
+        "read:items",
+        "read:findings",
+        "write:findings",
+        "write:integrity",
+        "network:fetch_media"
+      ],
+      "limits": {
+        "maxMediaChecksPerRun": 200,
+        "maxFindingsPerRun": 300
+      },
+      "thresholds": {
+        "imageReuseMinItems": 3,
+        "flappingChanges": 6,
+        "abnormalRateMinItems": 10,
+        "abnormalRateRatio": 0.2
+      }
+    }
+  }
+}
