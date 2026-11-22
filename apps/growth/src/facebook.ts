@@ -1,9 +1,13 @@
 import type { PublicItem } from '../../api/src/contract.ts';
 
+// Paused on user request — set FACEBOOK_INTEGRATION_ACTIVE = true only when explicitly re-activated.
+export const FACEBOOK_INTEGRATION_ACTIVE = false;
+
 export interface FacebookPostConfig {
   pageId: string;
   pageAccessToken: string;
   dailyCap: number;
+  enabled?: boolean;
 }
 
 export class FacebookAutoPoster {
@@ -17,6 +21,10 @@ export class FacebookAutoPoster {
     cfg: FacebookPostConfig,
     fetcher: typeof fetch = fetch
   ): Promise<{ posted: boolean; reason?: string }> {
+    if (!FACEBOOK_INTEGRATION_ACTIVE && cfg.enabled !== true) {
+      return { posted: false, reason: 'Facebook integration is paused' };
+    }
+
     const today = new Date().toISOString().slice(0, 10);
     if (today !== this.dayKey) {
       this.dayKey = today;
