@@ -65,12 +65,14 @@ export function buildChildSitemap(
   const urlNodes: string[] = [];
   let runningBytes = 128;
 
+  const encoder = new TextEncoder();
   for (const item of verified) {
     const loc = `${cleanOrigin}/?item=${encodeURIComponent(item.id)}`;
     const lastmod = item.verified_at ?? item.published_at;
     const node = `  <url>\n    <loc>${escapeXml(loc)}</loc>\n    <lastmod>${escapeXml(lastmod)}</lastmod>\n    <changefreq>daily</changefreq>\n  </url>`;
-    if (runningBytes + Buffer.byteLength(node, 'utf8') > SITEMAP_MAX_BYTES) break;
-    runningBytes += Buffer.byteLength(node, 'utf8');
+    const nodeBytes = encoder.encode(node).byteLength;
+    if (runningBytes + nodeBytes > SITEMAP_MAX_BYTES) break;
+    runningBytes += nodeBytes;
     urlNodes.push(node);
   }
 

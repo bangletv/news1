@@ -10,8 +10,24 @@ MAX_REDIRECTS = "5"
 MONTHLY_COST_CAP_USD = "25.00"
 PER_ITEM_COST_CAP_USD = "0.005"
 
+# Secrets configured strictly via:
+#   npx wrangler secret put INGEST_HMAC_SECRET
+#   npx wrangler secret put GEMINI_API_KEY
+
+# Run live RSS sync every 10 minutes + hourly sweep
 [triggers]
-crons = ["*/15 * * * *", "0 * * * *"]
+crons = ["*/10 * * * *", "0 * * * *"]
+
+# Use the same D1 database_id created for osn-api
+[[d1_databases]]
+binding = "DB"
+database_name = "osn-production"
+database_id = "00000000-0000-0000-0000-000000000001"
+
+# Use the same KILL_SWITCH_KV id created for osn-api
+[[kv_namespaces]]
+binding = "KILL_SWITCH_KV"
+id = "00000000000000000000000000000002"
 
 [[queues.producers]]
 binding = "HARVEST_QUEUE"
@@ -29,6 +45,15 @@ service = "osn-api"
 
 [env.staging]
 name = "osn-pipeline-staging"
+
+[[env.staging.d1_databases]]
+binding = "DB"
+database_name = "osn-staging"
+database_id = "00000000-0000-0000-0000-000000000011"
+
+[[env.staging.kv_namespaces]]
+binding = "KILL_SWITCH_KV"
+id = "00000000000000000000000000000012"
 
 [[env.staging.services]]
 binding = "API_SERVICE"

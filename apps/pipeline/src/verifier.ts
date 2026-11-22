@@ -71,8 +71,27 @@ export function isPrivateOrReservedIp(ip: string): boolean {
 
 export async function defaultDnsResolver(hostname: string): Promise<string[]> {
   if (net.isIP(hostname)) return [hostname];
-  const records = await lookup(hostname, { all: true });
-  return records.map((r) => r.address);
+  try {
+    const records = await lookup(hostname, { all: true });
+    if (records.length > 0) return records.map((r) => r.address);
+  } catch {
+    // Fall back to DNS-over-HTTPS when running in Cloudflare Workers or restricted runtimes
+  }
+  const dohRes = await fetch(
+    `https://cloudflare-dns.com/dns-query?name=${encodeURIComponent(hostname)}&type=A`,
+    { headers: { Accept: 'application/dns-json' } }
+  );
+  if (!dohRes.ok) {
+    throw new Error(`DNS resolution failed for ${hostname}`);
+  }
+  const data = (await dohRes.json()) as { Answer?: { type: number; data: string }[] };
+  const ips = (data.Answer ?? [])
+    .filter((a) => (a.type === 1 || a.type === 28) && net.isIP(a.data))
+    .map((a) => a.data);
+  if (ips.length === 0) {
+    throw new Error(`No DNS records found for ${hostname}`);
+  }
+  return ips;
 }
 
 export function isBareHomepage(parsed: URL): boolean {

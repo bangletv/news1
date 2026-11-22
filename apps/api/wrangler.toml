@@ -8,13 +8,18 @@ APP_ENV = "production"
 CANONICAL_ORIGIN = "https://theopensource.news"
 
 # Secrets configured strictly via:
-#   npx wrangler secret put INGEST_HMAC_SECRET --env production
-#   npx wrangler secret put GEMINI_API_KEY --env production
+#   npx wrangler secret put INGEST_HMAC_SECRET
+#   npx wrangler secret put GEMINI_API_KEY
 
+# Replace database_id and KV ids after running:
+#   npx wrangler d1 create osn-production
+#   npx wrangler kv namespace create KILL_SWITCH_KV
+#   npx wrangler kv namespace create NONCE_KV
 [[d1_databases]]
 binding = "DB"
 database_name = "osn-production"
 database_id = "00000000-0000-0000-0000-000000000001"
+migrations_dir = "migrations"
 
 [[kv_namespaces]]
 binding = "KILL_SWITCH_KV"
@@ -24,8 +29,20 @@ id = "00000000000000000000000000000002"
 binding = "NONCE_KV"
 id = "00000000000000000000000000000003"
 
+[[services]]
+binding = "PIPELINE_SERVICE"
+service = "osn-pipeline"
+
 [[routes]]
 pattern = "theopensource.news/api/*"
+zone_name = "theopensource.news"
+
+[[routes]]
+pattern = "www.theopensource.news/api/*"
+zone_name = "theopensource.news"
+
+[[routes]]
+pattern = "theopensource.news/robots.txt"
 zone_name = "theopensource.news"
 
 [env.staging]
@@ -39,6 +56,7 @@ CANONICAL_ORIGIN = "https://staging.theopensource.news"
 binding = "DB"
 database_name = "osn-staging"
 database_id = "00000000-0000-0000-0000-000000000011"
+migrations_dir = "migrations"
 
 [[env.staging.kv_namespaces]]
 binding = "KILL_SWITCH_KV"
@@ -47,3 +65,7 @@ id = "00000000000000000000000000000012"
 [[env.staging.kv_namespaces]]
 binding = "NONCE_KV"
 id = "00000000000000000000000000000013"
+
+[[env.staging.services]]
+binding = "PIPELINE_SERVICE"
+service = "osn-pipeline-staging"
