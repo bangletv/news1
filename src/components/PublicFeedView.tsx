@@ -252,40 +252,6 @@ export function PublicFeedView({
 
   return (
     <div className="space-y-9" dir={strings.dir}>
-      {/* Editorial Section Intro */}
-      <div className="flex flex-col justify-between gap-4 border-b border-[#d7ded8] pb-6 md:flex-row md:items-end">
-        <div>
-          <div className="osn-eyebrow">
-            <span className="osn-dash" aria-hidden="true" />
-            {headerEyebrow}
-          </div>
-          <h1 className="mt-2 font-serif text-[clamp(34px,4.2vw,58px)] font-normal leading-[1.05] tracking-[-0.035em] text-[#132e30]">
-            {headerTitle}
-          </h1>
-          <p className="mt-2.5 max-w-2xl text-[15px] leading-relaxed text-[#506560]">
-            {headerSubtitle}
-          </p>
-        </div>
-
-        <div className="flex flex-wrap items-center gap-3 text-xs text-[#506560]">
-          <span className="inline-flex items-center gap-2">
-            <CalendarDays className="h-4 w-4 text-[#116351]" aria-hidden="true" />
-            <time>{todayDisplay}</time>
-          </span>
-          <button
-            type="button"
-            onClick={() => void handleRefreshLatest()}
-            disabled={refreshing}
-            className="inline-flex items-center gap-1.5 rounded-md border border-[#d7ded8] bg-white px-2.5 py-1.5 text-[11px] font-semibold text-[#116351] transition-colors hover:border-[#116351] disabled:opacity-60"
-          >
-            <RefreshCw
-              className={`h-3.5 w-3.5 ${refreshing ? 'animate-spin' : ''}`}
-              aria-hidden="true"
-            />
-            <span>{refreshing ? 'Refreshing…' : 'Refresh latest'}</span>
-          </button>
-        </div>
-      </div>
 
       {/* Active Filter Status Pill Bar (when filtered or searching) */}
       {isFilteredFrontPage && (
@@ -694,14 +660,28 @@ export function PublicFeedView({
                       ? 'Open fellowships, grants & roles'
                       : strings.latestDiscoveries}
                 </h2>
-                <button
-                  type="button"
-                  onClick={() => setFiltersOpen((prev) => !prev)}
-                  className="inline-flex items-center gap-1.5 rounded-md border border-[#d7ded8] bg-white px-3 py-1.5 text-xs font-semibold text-[#116351] hover:border-[#116351]"
-                >
-                  <SlidersHorizontal className="h-3.5 w-3.5" aria-hidden="true" />
-                  <span>{strings.filtersLabel}</span>
-                </button>
+                <div className="flex flex-wrap items-center gap-2">
+                  <button
+                    type="button"
+                    onClick={() => void handleRefreshLatest()}
+                    disabled={refreshing}
+                    className="inline-flex items-center gap-1.5 rounded-md border border-[#d7ded8] bg-white px-3 py-1.5 text-xs font-semibold text-[#116351] transition-colors hover:border-[#116351] disabled:opacity-60"
+                  >
+                    <RefreshCw
+                      className={`h-3.5 w-3.5 ${refreshing ? 'animate-spin' : ''}`}
+                      aria-hidden="true"
+                    />
+                    <span>{refreshing ? 'Refreshing…' : 'Refresh latest'}</span>
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => setFiltersOpen((prev) => !prev)}
+                    className="inline-flex items-center gap-1.5 rounded-md border border-[#d7ded8] bg-white px-3 py-1.5 text-xs font-semibold text-[#116351] hover:border-[#116351]"
+                  >
+                    <SlidersHorizontal className="h-3.5 w-3.5" aria-hidden="true" />
+                    <span>{strings.filtersLabel}</span>
+                  </button>
+                </div>
               </div>
 
               {(filtersOpen || sectionMode !== 'feed') && (
@@ -977,6 +957,28 @@ export function PublicFeedView({
               </button>
             </section>
           )}
+          {/* Bottom Editorial Edition Banner */}
+          <div className="flex flex-col justify-between gap-4 border-t border-[#d7ded8] pt-8 md:flex-row md:items-end">
+            <div>
+              <div className="osn-eyebrow">
+                <span className="osn-dash" aria-hidden="true" />
+                {headerEyebrow}
+              </div>
+              <h1 className="mt-2 font-serif text-[clamp(28px,3.2vw,42px)] font-normal leading-[1.08] tracking-[-0.03em] text-[#132e30]">
+                {headerTitle}
+              </h1>
+              <p className="mt-2 max-w-2xl text-[14px] leading-relaxed text-[#506560]">
+                {headerSubtitle}
+              </p>
+            </div>
+
+            <div className="flex flex-wrap items-center gap-3 text-xs text-[#506560]">
+              <span className="inline-flex items-center gap-2">
+                <CalendarDays className="h-4 w-4 text-[#116351]" aria-hidden="true" />
+                <time>{todayDisplay}</time>
+              </span>
+            </div>
+          </div>
         </>
       )}
     </div>
