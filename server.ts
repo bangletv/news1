@@ -80,6 +80,14 @@ async function startServer() {
   const repo = new ApiRepository(DB_PATH);
   await bootstrapDatabase(repo);
   void warmMediaCache(repo.listAllItemsRaw('verified'), PILLAR_LABELS);
+
+  // Run an initial background sync on startup so live feeds harvest immediately
+  setTimeout(() => {
+    void runLiveSync(repo, PILLAR_LABELS, { geminiApiKey: process.env.GEMINI_API_KEY })
+      .then((sum) => console.log('Initial startup live sync completed:', sum))
+      .catch((err) => console.warn('Initial startup live sync encountered issue:', err));
+  }, 1000);
+
   const syncTimer = setInterval(() => {
     void runLiveSync(repo, PILLAR_LABELS, { geminiApiKey: process.env.GEMINI_API_KEY });
   }, SYNC_INTERVAL_MS);
